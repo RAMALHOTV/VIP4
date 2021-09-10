@@ -8,551 +8,1619 @@ http://canais.servidor
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-lVhL_wrYvjE/WKZ9_f7WbKI/AAAAAAAADYI/SW6V4YDaWYM4jh34HlDTMsAND0p3YoBrgCLcB/s1600/%2521Lista%2BAtualizada.png" group-title="!ATUALIZADO: 10/09/2021", ATUALIZADO: Em : 10/09/2021
 https://
 
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="CANAIS TELECINE",TELECINE ACTION SD
-http://vipeiptv.com:25461/taylor/taylor/855992
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="CANAIS TELECINE",TELECINE ACTION HD
-http://vipeiptv.com:25461/taylor/taylor/855994
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="CANAIS TELECINE",TELECINE ACTION FHD
-http://vipeiptv.com:25461/taylor/taylor/855996
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="CANAIS TELECINE",TELECINE CULT SD
-http://vipeiptv.com:25461/taylor/taylor/855998
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="CANAIS TELECINE",TELECINE CULT HD
-http://vipeiptv.com:25461/taylor/taylor/856000
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="CANAIS TELECINE",TELECINE CULT FHD
-http://vipeiptv.com:25461/taylor/taylor/856002
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="CANAIS TELECINE",TELECINE FUN SD
-http://vipeiptv.com:25461/taylor/taylor/856004
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="CANAIS TELECINE",TELECINE FUN HD
-http://vipeiptv.com:25461/taylor/taylor/856006
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="CANAIS TELECINE",TELECINE FUN FHD
-http://vipeiptv.com:25461/taylor/taylor/856008
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="CANAIS TELECINE",TELECINE PIPOCA SD
-http://vipeiptv.com:25461/taylor/taylor/856010
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="CANAIS TELECINE",TELECINE PIPOCA HD
-http://vipeiptv.com:25461/taylor/taylor/856012
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="CANAIS TELECINE",TELECINE PIPOCA FHD
-http://vipeiptv.com:25461/taylor/taylor/856014
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="CANAIS TELECINE",TELECINE PREMIUM SD
-http://vipeiptv.com:25461/taylor/taylor/856016
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="CANAIS TELECINE",TELECINE PREMIUM HD
-http://vipeiptv.com:25461/taylor/taylor/856018
-#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="CANAIS TELECINE",TELECINE PREMIUM FHD
-http://vipeiptv.com:25461/taylor/taylor/856020
-#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="CANAIS TELECINE",TELECINE TOUCH SD
-http://vipeiptv.com:25461/taylor/taylor/856022
-#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="CANAIS TELECINE",TELECINE TOUCH HD
-http://vipeiptv.com:25461/taylor/taylor/856024
-#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="CANAIS TELECINE",TELECINE TOUCH FHD
-http://vipeiptv.com:25461/taylor/taylor/856026
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL SD
-http://vipeiptv.com:25461/taylor/taylor/856038
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL HD
-http://vipeiptv.com:25461/taylor/taylor/856040
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL FHD
-http://vipeiptv.com:25461/taylor/taylor/856042
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryscience.png" group-title="CANAIS DISCOVERY",DISCOVERY SCIENCE HD
-http://vipeiptv.com:25461/taylor/taylor/856045
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryscience.png" group-title="CANAIS DISCOVERY",DISCOVERY SCIENCE FHD
-http://vipeiptv.com:25461/taylor/taylor/856047
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATHER SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverytheater.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATHER SD
-http://vipeiptv.com:25461/taylor/taylor/856049
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATHER HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverytheater.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATHER HD
-http://vipeiptv.com:25461/taylor/taylor/856051
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATHER FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverytheater.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATHER FHD
-http://vipeiptv.com:25461/taylor/taylor/856053
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryTurbo1.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO SD
-http://vipeiptv.com:25461/taylor/taylor/856055
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryTurbo1.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO HD
-http://vipeiptv.com:25461/taylor/taylor/856057
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryTurbo1.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO FHD
-http://vipeiptv.com:25461/taylor/taylor/856059
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryWorld1.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD HD
-http://vipeiptv.com:25461/taylor/taylor/856062
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryWorld1.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD FHD
-http://vipeiptv.com:25461/taylor/taylor/856064
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/id.png" group-title="CANAIS DISCOVERY",ID - INVESTIGAÇÃO DISCOVERY SD
-http://vipeiptv.com:25461/taylor/taylor/856066
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/id.png" group-title="CANAIS DISCOVERY",ID - INVESTIGAÇÃO DISCOVERY HD
-http://vipeiptv.com:25461/taylor/taylor/856068
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="CANAIS FILMES",A&E SD
-http://vipeiptv.com:25461/taylor/taylor/856077
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="CANAIS FILMES",A&E HD
-http://vipeiptv.com:25461/taylor/taylor/856078
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="CANAIS FILMES",A&E FHD
-http://vipeiptv.com:25461/taylor/taylor/856079
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="CANAIS FILMES",AMC SD
-http://vipeiptv.com:25461/taylor/taylor/856080
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="CANAIS FILMES",AMC HD
-http://vipeiptv.com:25461/taylor/taylor/856081
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="CANAIS FILMES",AMC FHD
-http://vipeiptv.com:25461/taylor/taylor/856082
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="CANAIS FILMES",AXN SD
-http://vipeiptv.com:25461/taylor/taylor/856083
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="CANAIS FILMES",AXN HD
-http://vipeiptv.com:25461/taylor/taylor/856085
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="CANAIS FILMES",AXN FHD
-http://vipeiptv.com:25461/taylor/taylor/856087
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/arte1.png" group-title="CANAIS FILMES",ARTE 1 HD
-http://vipeiptv.com:25461/taylor/taylor/856090
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cinemax.png" group-title="CANAIS FILMES",CINEMAX HD
-http://vipeiptv.com:25461/taylor/taylor/856094
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cinemax.png" group-title="CANAIS FILMES",CINEMAX FHD
-http://vipeiptv.com:25461/taylor/taylor/856096
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/fox.png" group-title="CANAIS FILMES",FOX HD
-http://vipeiptv.com:25461/taylor/taylor/856100
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium1b.png" group-title="CANAIS FILMES",FOX PREMIUM 1 HD
-http://vipeiptv.com:25461/taylor/taylor/856104
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium1b.png" group-title="CANAIS FILMES",FOX PREMIUM 1 FHD
-http://vipeiptv.com:25461/taylor/taylor/856106
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium2b.png" group-title="CANAIS FILMES",FOX PREMIUM 2 HD
-http://vipeiptv.com:25461/taylor/taylor/856109
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium2b.png" group-title="CANAIS FILMES",FOX PREMIUM 2 FHD
-http://vipeiptv.com:25461/taylor/taylor/856111
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="CANAIS FILMES",FX SD
-http://vipeiptv.com:25461/taylor/taylor/856113
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="CANAIS FILMES",FX HD
-http://vipeiptv.com:25461/taylor/taylor/856115
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="CANAIS FILMES",FX FHD
-http://vipeiptv.com:25461/taylor/taylor/856117
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="CANAIS FILMES",MEGAPIX SD
-http://vipeiptv.com:25461/taylor/taylor/856119
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="CANAIS FILMES",MEGAPIX HD
-http://vipeiptv.com:25461/taylor/taylor/856121
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="CANAIS FILMES",MEGAPIX FHD
-http://vipeiptv.com:25461/taylor/taylor/856123
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/paramount.png" group-title="CANAIS FILMES",PARAMOUNT
-http://vipeiptv.com:25461/taylor/taylor/856125
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/paramount.png" group-title="CANAIS FILMES",PARAMOUNT HD
-http://vipeiptv.com:25461/taylor/taylor/856127
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/space.png" group-title="CANAIS FILMES",SPACE SD
-http://vipeiptv.com:25461/taylor/taylor/856133
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/space.png" group-title="CANAIS FILMES",SPACE HD
-http://vipeiptv.com:25461/taylor/taylor/856135
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/space.png" group-title="CANAIS FILMES",SPACE FHD
-http://vipeiptv.com:25461/taylor/taylor/856137
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-57-canal-studio-universal.png" group-title="CANAIS FILMES",STUDIO UNIVERSAL HD
-http://vipeiptv.com:25461/taylor/taylor/856140
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/syfy.png" group-title="CANAIS FILMES",SYFY SD
-http://vipeiptv.com:25461/taylor/taylor/856146
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/syfy.png" group-title="CANAIS FILMES",SYFY HD
-http://vipeiptv.com:25461/taylor/taylor/856148
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tcm.png" group-title="CANAIS FILMES",TCM SD
-http://vipeiptv.com:25461/taylor/taylor/856154
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="CANAIS FILMES",TNT SD
-http://vipeiptv.com:25461/taylor/taylor/856161
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="CANAIS FILMES",TNT HD
-http://vipeiptv.com:25461/taylor/taylor/856163
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="CANAIS FILMES",TNT FHD
-http://vipeiptv.com:25461/taylor/taylor/856165
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SÉRIES SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tntseries.png" group-title="CANAIS FILMES",TNT SÉRIES SD
-http://vipeiptv.com:25461/taylor/taylor/856167
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SÉRIES HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tntseries.png" group-title="CANAIS FILMES",TNT SÉRIES HD
-http://vipeiptv.com:25461/taylor/taylor/856169
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/studio+universal.jpg" group-title="CANAIS FILMES",UNIVERSAL TV SD
-http://vipeiptv.com:25461/taylor/taylor/856172
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/studio+universal.jpg" group-title="CANAIS FILMES",UNIVERSAL TV HD
-http://vipeiptv.com:25461/taylor/taylor/856174
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/warner.png" group-title="CANAIS FILMES",WARNER CHANNEL SD
-http://vipeiptv.com:25461/taylor/taylor/856177
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/warner.png" group-title="CANAIS FILMES",WARNER CHANNEL HD
-http://vipeiptv.com:25461/taylor/taylor/856179
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandsports.png" group-title="ESPORTE",BAND SPORTS SD
-http://vipeiptv.com:25461/taylor/taylor/856182
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandsports.png" group-title="ESPORTE",BAND SPORTS HD
-http://vipeiptv.com:25461/taylor/taylor/856184
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/combate.png" group-title="ESPORTE",COMBATE SD
-http://vipeiptv.com:25461/taylor/taylor/856187
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/combate.png" group-title="ESPORTE",COMBATE HD
-http://vipeiptv.com:25461/taylor/taylor/856189
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/combate.png" group-title="ESPORTE",COMBATE FHD
-http://vipeiptv.com:25461/taylor/taylor/856191
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv.png" group-title="ESPORTE",SPORTV SD
-http://vipeiptv.com:25461/taylor/taylor/856230
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv.png" group-title="ESPORTE",SPORTV HD
-http://vipeiptv.com:25461/taylor/taylor/856232
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv.png" group-title="ESPORTE",SPORTV FHD
-http://vipeiptv.com:25461/taylor/taylor/856234
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv2.png" group-title="ESPORTE",SPORTV 2 SD
-http://vipeiptv.com:25461/taylor/taylor/856236
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv2.png" group-title="ESPORTE",SPORTV 2 HD
-http://vipeiptv.com:25461/taylor/taylor/856238
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv2.png" group-title="ESPORTE",SPORTV 2 FHD
-http://vipeiptv.com:25461/taylor/taylor/856240
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv3.png" group-title="ESPORTE",SPORTV 3 SD
-http://vipeiptv.com:25461/taylor/taylor/856242
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 3 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv3.png" group-title="ESPORTE",SPORTV 3 HD
-http://vipeiptv.com:25461/taylor/taylor/856244
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES SD
-http://vipeiptv.com:25461/taylor/taylor/856247
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES HD
-http://vipeiptv.com:25461/taylor/taylor/856249
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES FHD
-http://vipeiptv.com:25461/taylor/taylor/856251
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 SD
-http://vipeiptv.com:25461/taylor/taylor/856253
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 HD
-http://vipeiptv.com:25461/taylor/taylor/856255
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 FHD
-http://vipeiptv.com:25461/taylor/taylor/856257
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 SD
-http://vipeiptv.com:25461/taylor/taylor/856259
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 HD
-http://vipeiptv.com:25461/taylor/taylor/856261
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 FHD
-http://vipeiptv.com:25461/taylor/taylor/856263
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 4 SD
-http://vipeiptv.com:25461/taylor/taylor/856265
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 4 HD
-http://vipeiptv.com:25461/taylor/taylor/856267
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 5 SD
-http://vipeiptv.com:25461/taylor/taylor/856270
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 5 HD
-http://vipeiptv.com:25461/taylor/taylor/856272
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 6 HD
-http://vipeiptv.com:25461/taylor/taylor/856276
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 7 HD
-http://vipeiptv.com:25461/taylor/taylor/856279
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="CANAIS DOCUMENTÁRIO",ANIMAL PLANET SD
-http://vipeiptv.com:25461/taylor/taylor/856283
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="CANAIS DOCUMENTÁRIO",ANIMAL PLANET HD
-http://vipeiptv.com:25461/taylor/taylor/856285
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="CANAIS DOCUMENTÁRIO",ANIMAL PLANET FHD
-http://vipeiptv.com:25461/taylor/taylor/856287
-#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1200px-HGTV_US_Logo_2015.svg.png" group-title="CANAIS DOCUMENTÁRIO",HGTV HD
-http://vipeiptv.com:25461/taylor/taylor/856290
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/history.png" group-title="CANAIS DOCUMENTÁRIO",HISTORY SD
-http://vipeiptv.com:25461/taylor/taylor/856293
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/history.png" group-title="CANAIS DOCUMENTÁRIO",HISTORY HD
-http://vipeiptv.com:25461/taylor/taylor/856295
-#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/h2.png" group-title="CANAIS DOCUMENTÁRIO",H2 SD
-http://vipeiptv.com:25461/taylor/taylor/856298
-#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/h2.png" group-title="CANAIS DOCUMENTÁRIO",H2 HD
-http://vipeiptv.com:25461/taylor/taylor/856300
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeo.png" group-title="CANAIS DOCUMENTÁRIO",NATIONAL GEOGRAPHIC SD
-http://vipeiptv.com:25461/taylor/taylor/856303
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeo.png" group-title="CANAIS DOCUMENTÁRIO",NATIONAL GEOGRAPHIC HD
-http://vipeiptv.com:25461/taylor/taylor/856305
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeowild.png" group-title="CANAIS DOCUMENTÁRIO",NATGEO WILD SD
-http://vipeiptv.com:25461/taylor/taylor/856308
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeowild.png" group-title="CANAIS DOCUMENTÁRIO",NATGEO WILD HD
-http://vipeiptv.com:25461/taylor/taylor/856310
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="CANAIS HBO",HBO SD
-http://vipeiptv.com:25461/taylor/taylor/856313
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="CANAIS HBO",HBO HD
-http://vipeiptv.com:25461/taylor/taylor/856315
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="CANAIS HBO",HBO FHD
-http://vipeiptv.com:25461/taylor/taylor/856317
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="CANAIS HBO",HBO 2 SD
-http://vipeiptv.com:25461/taylor/taylor/856319
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="CANAIS HBO",HBO 2 HD
-http://vipeiptv.com:25461/taylor/taylor/856321
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="CANAIS HBO",HBO 2 FHD
-http://vipeiptv.com:25461/taylor/taylor/856323
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png" group-title="CANAIS HBO",HBO FAMILY SD
-http://vipeiptv.com:25461/taylor/taylor/856325
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png" group-title="CANAIS HBO",HBO FAMILY HD
-http://vipeiptv.com:25461/taylor/taylor/856327
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png" group-title="CANAIS HBO",HBO FAMILY FHD
-http://vipeiptv.com:25461/taylor/taylor/856329
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOMundi.png" group-title="CANAIS HBO",HBO MUNDI HD
-http://vipeiptv.com:25461/taylor/taylor/856332
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO MUNDI FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOMundi.png" group-title="CANAIS HBO",HBO MUNDI FHD
-http://vipeiptv.com:25461/taylor/taylor/856334
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/HBOPOP.png" group-title="CANAIS HBO",HBO POP SD
-http://vipeiptv.com:25461/taylor/taylor/856339
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/HBOPOP.png" group-title="CANAIS HBO",HBO POP HD
-http://vipeiptv.com:25461/taylor/taylor/856341
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="CANAIS HBO",HBO SIGNATURE HD
-http://vipeiptv.com:25461/taylor/taylor/856345
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="CANAIS HBO",HBO SIGNATURE FHD
-http://vipeiptv.com:25461/taylor/taylor/856347
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png" group-title="CANAIS HBO",HBO XTREME SD
-http://vipeiptv.com:25461/taylor/taylor/856349
-#EXTINF:-1 tvg-id="HBO XTREME HD" tvg-name="HBO XTREME HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png" group-title="CANAIS HBO",HBO XTREME HD
-http://vipeiptv.com:25461/taylor/taylor/856351
-#EXTINF:-1 tvg-id="HBO XTREME HD" tvg-name="HBO XTREME FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png" group-title="CANAIS HBO",HBO XTREME FHD
-http://vipeiptv.com:25461/taylor/taylor/856353
-#EXTINF:-1 tvg-id="HBO+ HD" tvg-name="HBO+ SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hboplus.png" group-title="CANAIS HBO",HBO+ SD
-http://vipeiptv.com:25461/taylor/taylor/856355
-#EXTINF:-1 tvg-id="HBO+ HD" tvg-name="HBO+ HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hboplus.png" group-title="CANAIS HBO",HBO+ HD
-http://vipeiptv.com:25461/taylor/taylor/856356
-#EXTINF:-1 tvg-id="HBO+ HD" tvg-name="HBO+ FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hboplus.png" group-title="CANAIS HBO",HBO+ FHD
-http://vipeiptv.com:25461/taylor/taylor/856357
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO AMAZÔNICA HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/rede_am.png" group-title="GLOBOS SAO PAULO ",GLOBO AMAZÔNICA HD
-http://vipeiptv.com:25461/taylor/taylor/856358
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO BAHIA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS BAHIA",GLOBO BAHIA SD
-http://vipeiptv.com:25461/taylor/taylor/856362
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO BAHIA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS BAHIA",GLOBO BAHIA HD
-http://vipeiptv.com:25461/taylor/taylor/856364
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASÍLIA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS BRASILIA",GLOBO BRASÍLIA SD
-http://vipeiptv.com:25461/taylor/taylor/856370
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASÍLIA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS BRASILIA",GLOBO BRASÍLIA HD
-http://vipeiptv.com:25461/taylor/taylor/856372
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO CUAIBÁ SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvcentroamerica.png" group-title="GLOBOS CUIABA",GLOBO CUAIBÁ SD
-http://vipeiptv.com:25461/taylor/taylor/856375
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO EPTV CAMPINAS SD
-http://vipeiptv.com:25461/taylor/taylor/856376
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO EPTV CAMPINAS HD
-http://vipeiptv.com:25461/taylor/taylor/856378
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO EPTV RIBEIRÃO PRETO SD
-http://vipeiptv.com:25461/taylor/taylor/856381
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV SÃO CARLOS" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO EPTV SÃO CARLOS
-http://vipeiptv.com:25461/taylor/taylor/856383
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO FORTALEZA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS CEARA",GLOBO FORTALEZA SD
-http://vipeiptv.com:25461/taylor/taylor/856384
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO FORTALEZA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS CEARA",GLOBO FORTALEZA HD
-http://vipeiptv.com:25461/taylor/taylor/856385
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO GOIÂNIA - TV ANHANGUERA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS GOIAIS",GLOBO GOIÂNIA - TV ANHANGUERA HD
-http://vipeiptv.com:25461/taylor/taylor/856386
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS RIO GRANDE DO NORTE",GLOBO INTER TV CABUGI HD
-http://vipeiptv.com:25461/taylor/taylor/856387
-#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS MINAS GERAIS",GLOBO MINAS SD
-http://vipeiptv.com:25461/taylor/taylor/856388
-#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS MINAS GERAIS",GLOBO MINAS HD
-http://vipeiptv.com:25461/taylor/taylor/856390
-#EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS SD" tvg-logo="http://vipeiptv.com:25461/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="NOTICIAS",GLOBO NEWS SD
-http://vipeiptv.com:25461/taylor/taylor/856393
-#EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS HD" tvg-logo="http://vipeiptv.com:25461/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="NOTICIAS",GLOBO NEWS HD
-http://vipeiptv.com:25461/taylor/taylor/856395
-#EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS FHD" tvg-logo="http://vipeiptv.com:25461/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="NOTICIAS",GLOBO NEWS FHD
-http://vipeiptv.com:25461/taylor/taylor/856397
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS PERNAMBUCO",GLOBO NORDESTE HD
-http://vipeiptv.com:25461/taylor/taylor/856403
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NSC BLUMENAU HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SANTA CATARINA",GLOBO NSC BLUMENAU HD
-http://vipeiptv.com:25461/taylor/taylor/856406
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NSC JOINVILLE HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SANTA CATARINA",GLOBO NSC JOINVILLE HD
-http://vipeiptv.com:25461/taylor/taylor/856407
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NSC TV HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SANTA CATARINA",GLOBO NSC TV HD
-http://vipeiptv.com:25461/taylor/taylor/856408
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RBS TV FHD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS RIO GRANDE DO SUL",GLOBO RBS TV FHD
-http://vipeiptv.com:25461/taylor/taylor/856412
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RBS TV 4K" tvg-logo="http://vipeiptv.com:25461/images/58ee6d7920593d3b04d173d68717b778.png" group-title="GLOBOS RIO GRANDE DO SUL",GLOBO RBS TV 4K
-http://vipeiptv.com:25461/taylor/taylor/856413
-#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS RIO DE JANEIRO ",GLOBO RJ SD
-http://vipeiptv.com:25461/taylor/taylor/856417
-#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS RIO DE JANEIRO ",GLOBO RJ HD
-http://vipeiptv.com:25461/taylor/taylor/856419
-#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ FHD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS RIO DE JANEIRO ",GLOBO RJ FHD
-http://vipeiptv.com:25461/taylor/taylor/856421
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RPC CURITIBA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS CURITIBA",GLOBO RPC CURITIBA SD
-http://vipeiptv.com:25461/taylor/taylor/856423
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SDD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO SP SDD
-http://vipeiptv.com:25461/taylor/taylor/856426
-#EXTINF:-1 tvg-id="Globo HD SP" tvg-name="GLOBO SP HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO SP HD
-http://vipeiptv.com:25461/taylor/taylor/856428
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV MORENA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS MATO GROSSO DO SUL",GLOBO TV MORENA SD
-http://vipeiptv.com:25461/taylor/taylor/856431
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV MORENA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS MATO GROSSO DO SUL",GLOBO TV MORENA HD
-http://vipeiptv.com:25461/taylor/taylor/856433
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="GLOBOS SAO PAULO ",GLOBO TV TEM BAURU HD
-http://vipeiptv.com:25461/taylor/taylor/856434
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV MORENA FHD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS MATO GROSSO DO SUL",GLOBO TV MORENA FHD
-http://vipeiptv.com:25461/taylor/taylor/856436
-#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV TEM SJRP" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="GLOBOS SAO PAULO ",GLOBO TV TEM SJRP
-http://vipeiptv.com:25461/taylor/taylor/856438
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="GLOBOS SAO PAULO ",GLOBO TV TEM SOROCABA HD
-http://vipeiptv.com:25461/taylor/taylor/856439
-#EXTINF:-1 tvg-id="Tvtribuna.br" tvg-name="GLOBO TV TRIBUNA" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO TV TRIBUNA
-http://vipeiptv.com:25461/taylor/taylor/856440
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO TV VANGUARDA SJC" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvvanguarda.png" group-title="GLOBOS SAO PAULO ",GLOBO TV VANGUARDA SJC
-http://vipeiptv.com:25461/taylor/taylor/856441
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO TV LIBERAL BELEM" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS PARA",GLOBO TV LIBERAL BELEM
-http://vipeiptv.com:25461/taylor/taylor/856456
-#EXTINF:-1 tvg-id="Band News HD" tvg-name="BAND NEWS SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandnews.png" group-title="NOTICIAS",BAND NEWS SD
-http://vipeiptv.com:25461/taylor/taylor/856483
-#EXTINF:-1 tvg-id="Band News HD" tvg-name="BAND NEWS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandnews.png" group-title="NOTICIAS",BAND NEWS HD
-http://vipeiptv.com:25461/taylor/taylor/856485
-#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL SD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-0.png" group-title="NOTICIAS",CNN BRASIL SD
-http://vipeiptv.com:25461/taylor/taylor/856488
-#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-0.png" group-title="NOTICIAS",CNN BRASIL HD
-http://vipeiptv.com:25461/taylor/taylor/856490
-#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-0.png" group-title="NOTICIAS",CNN BRASIL FHD
-http://vipeiptv.com:25461/taylor/taylor/856492
-#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="NOTICIAS",RECORD NEWS SD
-http://vipeiptv.com:25461/taylor/taylor/856503
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/band.png" group-title="CANAIS ABERTOS",BAND SD
-http://vipeiptv.com:25461/taylor/taylor/856507
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD" tvg-logo="http://revistapress.com.br/wp-content/uploads/2018/12/Band-Logo-1.png" group-title="CANAIS ABERTOS",BAND HD
-http://vipeiptv.com:25461/taylor/taylor/856509
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD SD
-http://vipeiptv.com:25461/taylor/taylor/856515
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BH HD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD BH HD
-http://vipeiptv.com:25461/taylor/taylor/856519
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD DF HD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD DF HD
-http://vipeiptv.com:25461/taylor/taylor/856521
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RS HD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD RS HD
-http://vipeiptv.com:25461/taylor/taylor/856522
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD SP HD
-http://vipeiptv.com:25461/taylor/taylor/856523
-#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="CANAIS ABERTOS",REDE VIDA
-http://vipeiptv.com:25461/taylor/taylor/856524
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV!" tvg-logo="http://imguol.com/blogs/31/files/2015/12/redetv1.png" group-title="CANAIS ABERTOS",REDETV!
-http://vipeiptv.com:25461/taylor/taylor/856525
-#EXTINF:-1 tvg-id="Rit.br" tvg-name="RIT" tvg-logo="http://www.portaldemidia.ufms.br/wp-content/uploads/2016/04/LOGO_RIT1.png" group-title="CANAIS ABERTOS",RIT
-http://vipeiptv.com:25461/taylor/taylor/856526
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS ABERTOS",SBT SD
-http://vipeiptv.com:25461/taylor/taylor/856527
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS ABERTOS",SBT HD
-http://vipeiptv.com:25461/taylor/taylor/856529
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BELEM" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD BELEM
-http://vipeiptv.com:25461/taylor/taylor/856533
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD MINAS SD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD MINAS SD
-http://vipeiptv.com:25461/taylor/taylor/856537
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RS SD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD RS SD
-http://vipeiptv.com:25461/taylor/taylor/856541
-#EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CÂMARA" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="CANAIS ABERTOS",TV CÂMARA
-http://vipeiptv.com:25461/taylor/taylor/856554
-#EXTINF:-1 tvg-id="Tvespanha.br" tvg-name="TVE" tvg-logo="http://www.tve.com.br/wp-content/uploads/2014/11/logo-tve-png.png" group-title="CANAIS ABERTOS",TVE
-http://vipeiptv.com:25461/taylor/taylor/856555
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG" tvg-logo="http://logocanais.ddns.net/Logo/Boomerang1.png" group-title="CANAIS INFANTIL",BOOMERANG
-http://vipeiptv.com:25461/taylor/taylor/856580
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="http://logocanais.ddns.net/Logo/Boomerang1.png" group-title="CANAIS INFANTIL",BOOMERANG HD
-http://vipeiptv.com:25461/taylor/taylor/856582
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="CANAIS INFANTIL",CARTOON NETWORK SD
-http://vipeiptv.com:25461/taylor/taylor/856585
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="CANAIS INFANTIL",CARTOON NETWORK HD
-http://vipeiptv.com:25461/taylor/taylor/856587
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS SD
-http://vipeiptv.com:25461/taylor/taylor/856590
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS HD
-http://vipeiptv.com:25461/taylor/taylor/856592
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://w7.pngwing.com/pngs/211/947/png-transparent-disney-channel-the-walt-disney-company-logo-television-show-cannel-television-text-logo.png" group-title="CANAIS INFANTIL",DISNEY CHANNEL SD
-http://vipeiptv.com:25461/taylor/taylor/856595
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://w7.pngwing.com/pngs/211/947/png-transparent-disney-channel-the-walt-disney-company-logo-television-show-cannel-television-text-logo.png" group-title="CANAIS INFANTIL",DISNEY CHANNEL HD
-http://vipeiptv.com:25461/taylor/taylor/856597
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR SD" tvg-logo="https://2.bp.blogspot.com/-ucaQnWdXy2M/WnOj1PfA7mI/AAAAAAABD1g/RUVOBTXOHvUFTjeIss2aofvNP_xT6VpewCLcBGAs/s640/Logo%2BDisney_Junior.png" group-title="CANAIS INFANTIL",DISNEY JUNIOR SD
-http://vipeiptv.com:25461/taylor/taylor/856600
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD" tvg-logo="https://2.bp.blogspot.com/-ucaQnWdXy2M/WnOj1PfA7mI/AAAAAAABD1g/RUVOBTXOHvUFTjeIss2aofvNP_xT6VpewCLcBGAs/s640/Logo%2BDisney_Junior.png" group-title="CANAIS INFANTIL",DISNEY JUNIOR HD
-http://vipeiptv.com:25461/taylor/taylor/856602
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD" tvg-logo="https://www.logolynx.com/images/logolynx/s_a8/a8352d07ba7106c58d6485dcdc06c4df.png" group-title="CANAIS INFANTIL",DISNEY XD SD
-http://vipeiptv.com:25461/taylor/taylor/856605
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo-1.png" group-title="CANAIS INFANTIL",GLOOB SD
-http://vipeiptv.com:25461/taylor/taylor/856609
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo-1.png" group-title="CANAIS INFANTIL",GLOOB HD
-http://vipeiptv.com:25461/taylor/taylor/856611
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="CANAIS INFANTIL",NICK JR. SD
-http://vipeiptv.com:25461/taylor/taylor/856620
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="CANAIS INFANTIL",NICK JR. HD
-http://vipeiptv.com:25461/taylor/taylor/856622
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png" group-title="CANAIS INFANTIL",NICKELODEON SD
-http://vipeiptv.com:25461/taylor/taylor/856625
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png" group-title="CANAIS INFANTIL",NICKELODEON HD
-http://vipeiptv.com:25461/taylor/taylor/856627
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png" group-title="CANAIS INFANTIL",TOONCAST SD
-http://vipeiptv.com:25461/taylor/taylor/856631
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RÁ-TIM-BUM SSD" tvg-logo="http://vipeiptv.com:25461/images/a767a5d1c07ee94c45d2e34689e4ad79.png" group-title="CANAIS INFANTIL",TV RÁ-TIM-BUM SSD
-http://vipeiptv.com:25461/taylor/taylor/856635
-#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Zoomoo_logo.png" group-title="CANAIS INFANTIL",ZOOMOO
-http://vipeiptv.com:25461/taylor/taylor/856639
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bis.png" group-title="CANAIS ENTRETENIMENTO",BIS SD
-http://vipeiptv.com:25461/taylor/taylor/856640
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bis.png" group-title="CANAIS ENTRETENIMENTO",BIS HD
-http://vipeiptv.com:25461/taylor/taylor/856642
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bis.png" group-title="CANAIS ENTRETENIMENTO",BIS FHD
-http://vipeiptv.com:25461/taylor/taylor/856644
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://pt.wikipedia.org/wiki/Canal_Brasil#/media/Ficheiro:CanalBrasil_logos_700px_0-03.png" group-title="CANAIS ENTRETENIMENTO",CANAL BRASIL HD
-http://vipeiptv.com:25461/taylor/taylor/856652
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://pt.wikipedia.org/wiki/Sony_Channel#/media/Ficheiro:Sony_Channel_Logo.png" group-title="CANAIS ENTRETENIMENTO",CANAL SONY SD
-http://vipeiptv.com:25461/taylor/taylor/856653
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://pt.wikipedia.org/wiki/Sony_Channel#/media/Ficheiro:Sony_Channel_Logo.png" group-title="CANAIS ENTRETENIMENTO",CANAL SONY HD
-http://vipeiptv.com:25461/taylor/taylor/856654
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="CANAIS ENTRETENIMENTO",CANÇÃO NOVA SD
-http://vipeiptv.com:25461/taylor/taylor/856655
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="CANAIS ENTRETENIMENTO",CANÇÃO NOVA HD
-http://vipeiptv.com:25461/taylor/taylor/856656
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="CANAIS ENTRETENIMENTO",COMEDY CENTRAL SD
-http://vipeiptv.com:25461/taylor/taylor/856657
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="CANAIS ENTRETENIMENTO",COMEDY CENTRAL HD
-http://vipeiptv.com:25461/taylor/taylor/856659
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="CANAIS ENTRETENIMENTO",COMEDY CENTRAL FHD
-http://vipeiptv.com:25461/taylor/taylor/856661
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png" group-title="CANAIS ENTRETENIMENTO",E! SD
-http://vipeiptv.com:25461/taylor/taylor/856663
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png" group-title="CANAIS ENTRETENIMENTO",E! HD
-http://vipeiptv.com:25461/taylor/taylor/856665
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD" tvg-logo="http://vipeiptv.com:25461/images/4d2187339c2c0f316b0849a8b027c40c.png" group-title="CANAIS ENTRETENIMENTO",FISH TV HD
-http://vipeiptv.com:25461/taylor/taylor/856669
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK SD
-http://vipeiptv.com:25461/taylor/taylor/856672
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK HD
-http://vipeiptv.com:25461/taylor/taylor/856674
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK FHD
-http://vipeiptv.com:25461/taylor/taylor/856676
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_life_logo.png" group-title="CANAIS ENTRETENIMENTO",FOX LIFE SD
-http://vipeiptv.com:25461/taylor/taylor/856678
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_life_logo.png" group-title="CANAIS ENTRETENIMENTO",FOX LIFE HD
-http://vipeiptv.com:25461/taylor/taylor/856680
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_life_logo.png" group-title="CANAIS ENTRETENIMENTO",FOX LIFE FHD
-http://vipeiptv.com:25461/taylor/taylor/856682
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="CANAIS ENTRETENIMENTO",FUTURA HD
-http://vipeiptv.com:25461/taylor/taylor/856684
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="http://vipeiptv.com:25461/images/a5e669e9a3073f1384994f3b02576748.png" group-title="CANAIS ENTRETENIMENTO",GNT SD
-http://vipeiptv.com:25461/taylor/taylor/856685
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="http://vipeiptv.com:25461/images/a5e669e9a3073f1384994f3b02576748.png" group-title="CANAIS ENTRETENIMENTO",GNT HD
-http://vipeiptv.com:25461/taylor/taylor/856687
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD" tvg-logo="http://vipeiptv.com:25461/images/a5e669e9a3073f1384994f3b02576748.png" group-title="CANAIS ENTRETENIMENTO",GNT FHD
-http://vipeiptv.com:25461/taylor/taylor/856689
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="CANAIS ENTRETENIMENTO",LIFETIME SD
-http://vipeiptv.com:25461/taylor/taylor/856691
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="CANAIS ENTRETENIMENTO",LIFETIME HD
-http://vipeiptv.com:25461/taylor/taylor/856693
-#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/%2Bglobosat_azul_2d.png" group-title="CANAIS ENTRETENIMENTO",MAIS GLOBOSAT SD
-http://vipeiptv.com:25461/taylor/taylor/856696
-#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/%2Bglobosat_azul_2d.png" group-title="CANAIS ENTRETENIMENTO",MAIS GLOBOSAT HD
-http://vipeiptv.com:25461/taylor/taylor/856698
-#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/LOGO_MTV_BRASIL.png" group-title="CANAIS ENTRETENIMENTO",MTV SD
-http://vipeiptv.com:25461/taylor/taylor/856701
-#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/LOGO_MTV_BRASIL.png" group-title="CANAIS ENTRETENIMENTO",MTV HD
-http://vipeiptv.com:25461/taylor/taylor/856703
-#EXTINF:-1 tvg-id="Multishow HD" tvg-name="MULTISHOW SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Multishow.png" group-title="CANAIS ENTRETENIMENTO",MULTISHOW SD
-http://vipeiptv.com:25461/taylor/taylor/856706
-#EXTINF:-1 tvg-id="Multishow HD" tvg-name="MULTISHOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Multishow.png" group-title="CANAIS ENTRETENIMENTO",MULTISHOW HD
-http://vipeiptv.com:25461/taylor/taylor/856709
-#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF SD" tvg-logo="http://vipeiptv.com:25461/images/63908e498ca1528f5f47fa918926ad04.jpg" group-title="CANAIS ENTRETENIMENTO",OFF SD
-http://vipeiptv.com:25461/taylor/taylor/856714
-#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD" tvg-logo="http://vipeiptv.com:25461/images/63908e498ca1528f5f47fa918926ad04.jpg" group-title="CANAIS ENTRETENIMENTO",OFF HD
-http://vipeiptv.com:25461/taylor/taylor/856716
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="CANAIS ENTRETENIMENTO",WOOHOO SD
-http://vipeiptv.com:25461/taylor/taylor/856732
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="CANAIS ENTRETENIMENTO",WOOHOO HD
-http://vipeiptv.com:25461/taylor/taylor/856734
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png" group-title="CANAIS ENTRETENIMENTO",VIVA SD
-http://vipeiptv.com:25461/taylor/taylor/856736
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png" group-title="CANAIS ENTRETENIMENTO",VIVA HD
-http://vipeiptv.com:25461/taylor/taylor/856738
-#EXTINF:-1 tvg-id="Woohoo HD" tvg-name="WOOHOO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="CANAIS ENTRETENIMENTO",WOOHOO SD
-http://vipeiptv.com:25461/taylor/taylor/856741
-#EXTINF:-1 tvg-id="Woohoo HD" tvg-name="WOOHOO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="CANAIS ENTRETENIMENTO",WOOHOO HD
-http://vipeiptv.com:25461/taylor/taylor/856743
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV CABO BRANCO HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-cabo-branco_m.png" group-title="GLOBOS PARAIBA",TV CABO BRANCO HD
-http://vipeiptv.com:25461/taylor/taylor/856807
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV CABO BRANCO SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS PARAIBA",TV CABO BRANCO SD
-http://vipeiptv.com:25461/taylor/taylor/856808
-#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA ²" tvg-logo="http://i.imgur.com/1EGWuDA.png" group-title="RELIGIÃO",CANÇÃO NOVA ²
-http://vipeiptv.com:25461/taylor/taylor/856823
-#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA  HD" tvg-logo="http://i.imgur.com/1EGWuDA.png" group-title="RELIGIÃO",CANÇÃO NOVA  HD
-http://vipeiptv.com:25461/taylor/taylor/856824
-#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA SD" tvg-logo="http://i.imgur.com/1EGWuDA.png" group-title="RELIGIÃO",CANÇÃO NOVA SD
-http://vipeiptv.com:25461/taylor/taylor/856825
-#EXTINF:-1 tvg-id="" tvg-name="NOVO TEMPO ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIÃO",NOVO TEMPO ²
-http://vipeiptv.com:25461/taylor/taylor/856826
-#EXTINF:-1 tvg-id="" tvg-name="NOVO TEMPO HD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIÃO",NOVO TEMPO HD ²
-http://vipeiptv.com:25461/taylor/taylor/856827
-#EXTINF:-1 tvg-id="" tvg-name="PAI ETERNO SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuNu57GZV92MZ605i7iyD-tGJl4u6RtPyfhw&usqp=CAU" group-title="RELIGIÃO",PAI ETERNO SD
-http://vipeiptv.com:25461/taylor/taylor/856828
-#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="RELIGIÃO",REDE VIDA
-http://vipeiptv.com:25461/taylor/taylor/856829
-#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="RELIGIÃO",TV APARECIDA  SD
-http://vipeiptv.com:25461/taylor/taylor/856830
-#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="RELIGIÃO",TV APARECIDA ²
-http://vipeiptv.com:25461/taylor/taylor/856831
-#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="RELIGIÃO",TV APARECIDA HD
-http://vipeiptv.com:25461/taylor/taylor/856832
-#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png" group-title="RELIGIÃO",TV EVANGELIZAR
-http://vipeiptv.com:25461/taylor/taylor/856833
-#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIÃO",TV NOVO TEMPO  SD
-http://vipeiptv.com:25461/taylor/taylor/856834
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sbt.png" group-title="CANAIS ABERTOS",SBT RS HD
-http://vipeiptv.com:25461/taylor/taylor/856845
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-8043A38965-seeklogo.com.png" group-title="CANAIS ABERTOS",TV CULTURA HD
-http://vipeiptv.com:25461/taylor/taylor/857057
+#EXTINF:-1,FISH HD
+http://conexaoonline.life:80/162466827635269/169924/354
+#EXTINF:-1,FISH TV FHD
+http://conexaoonline.life:80/162466827635269/169924/117
+#EXTINF:-1,FISH TV SD
+http://conexaoonline.life:80/162466827635269/169924/204
+#EXTINF:-1,FOOD NETWORK FHD
+http://conexaoonline.life:80/162466827635269/169924/89
+#EXTINF:-1,FOOD NETWORK HD
+http://conexaoonline.life:80/162466827635269/169924/363
+#EXTINF:-1,FOOD NETWORK SD
+http://conexaoonline.life:80/162466827635269/169924/243
+#EXTINF:-1,STAR LIFE FHD
+http://conexaoonline.life:80/162466827635269/169924/45
+#EXTINF:-1,STAR LIFE HD
+http://conexaoonline.life:80/162466827635269/169924/276
+#EXTINF:-1,STAR LIFE SD
+http://conexaoonline.life:80/162466827635269/169924/205
+#EXTINF:-1,GNT FHD
+http://conexaoonline.life:80/162466827635269/169924/116
+#EXTINF:-1,GNT HD
+http://conexaoonline.life:80/162466827635269/169924/2082
+#EXTINF:-1,GNT SD
+http://conexaoonline.life:80/162466827635269/169924/225
+#EXTINF:-1,LIFETIME FHD
+http://conexaoonline.life:80/162466827635269/169924/94
+#EXTINF:-1,LIFETIME HD
+http://conexaoonline.life:80/162466827635269/169924/2209
+#EXTINF:-1,LIFETIME SD
+http://conexaoonline.life:80/162466827635269/169924/246
+#EXTINF:-1,MTV SD
+http://conexaoonline.life:80/162466827635269/169924/2197
+#EXTINF:-1,OFF FHD
+http://conexaoonline.life:80/162466827635269/169924/130
+#EXTINF:-1,OFF HD
+http://conexaoonline.life:80/162466827635269/169924/2095
+#EXTINF:-1,OFF SD
+http://conexaoonline.life:80/162466827635269/169924/2094
+#EXTINF:-1,SHOP TIME HD
+http://conexaoonline.life:80/162466827635269/169924/331
+#EXTINF:-1,TLC FHD
+http://conexaoonline.life:80/162466827635269/169924/122
+#EXTINF:-1,TLC HD
+http://conexaoonline.life:80/162466827635269/169924/310
+#EXTINF:-1,TLC SD
+http://conexaoonline.life:80/162466827635269/169924/2135
+#EXTINF:-1,VIVA FHD
+http://conexaoonline.life:80/162466827635269/169924/124
+#EXTINF:-1,VIVA HD
+http://conexaoonline.life:80/162466827635269/169924/2145
+#EXTINF:-1,VIVA SD
+http://conexaoonline.life:80/162466827635269/169924/2146
+#EXTINF:-1,CANCAO NOVA FHD
+http://conexaoonline.life:80/162466827635269/169924/2040
+#EXTINF:-1,CANCAO NOVA SD
+http://conexaoonline.life:80/162466827635269/169924/212
+#EXTINF:-1,REDE GENESIS
+http://conexaoonline.life:80/162466827635269/169924/19734
+#EXTINF:-1,REDE GOSPEL FHD
+http://conexaoonline.life:80/162466827635269/169924/139
+#EXTINF:-1,REDE GOSPEL SD
+http://conexaoonline.life:80/162466827635269/169924/232
+#EXTINF:-1,REDE VIDA HD
+http://conexaoonline.life:80/162466827635269/169924/2120
+#EXTINF:-1,REDE VIDA SD
+http://conexaoonline.life:80/162466827635269/169924/2119
+#EXTINF:-1,SBN SD
+http://conexaoonline.life:80/162466827635269/169924/25101
+#EXTINF:-1,TV APARECIDA SD
+http://conexaoonline.life:80/162466827635269/169924/2140
+#EXTINF:-1,TV NOVO TEMPO FHD
+http://conexaoonline.life:80/162466827635269/169924/133
+#EXTINF:-1,TV NOVO TEMPO HD
+http://conexaoonline.life:80/162466827635269/169924/2141
+#EXTINF:-1,TV NOVO TEMPO SD
+http://conexaoonline.life:80/162466827635269/169924/215
+#EXTINF:-1,TV PAI ETERNO FHD
+http://conexaoonline.life:80/162466827635269/169924/19927
+#EXTINF:-1,TV PAI ETERNO SD
+http://conexaoonline.life:80/162466827635269/169924/18170
+#EXTINF:-1,TV PLENITUDE
+http://conexaoonline.life:80/162466827635269/169924/26229
+#EXTINF:-1,TV SUPER GOSPEL
+http://conexaoonline.life:80/162466827635269/169924/25100
+#EXTINF:-1,TV EVANGELIZAR
+http://conexaoonline.life:80/162466827635269/169924/109661
+#EXTINF:-1,A ILHA  HD
+http://conexaoonline.life:80/162466827635269/169924/184558
+#EXTINF:-1,BIS FHD
+http://conexaoonline.life:80/162466827635269/169924/127
+#EXTINF:-1,BIS HD
+http://conexaoonline.life:80/162466827635269/169924/325
+#EXTINF:-1,BIS SD
+http://conexaoonline.life:80/162466827635269/169924/190
+#EXTINF:-1,MTV FHD
+http://conexaoonline.life:80/162466827635269/169924/96
+#EXTINF:-1,MTV HD
+http://conexaoonline.life:80/162466827635269/169924/286
+#EXTINF:-1,MTV LIVE FHD
+http://conexaoonline.life:80/162466827635269/169924/55
+#EXTINF:-1,MTV LIVE HD
+http://conexaoonline.life:80/162466827635269/169924/287
+#EXTINF:-1,MULTISHOW  FHD
+http://conexaoonline.life:80/162466827635269/169924/97
+#EXTINF:-1,MULTISHOW HD
+http://conexaoonline.life:80/162466827635269/169924/2091
+#EXTINF:-1,MULTISHOW SD
+http://conexaoonline.life:80/162466827635269/169924/236
+#EXTINF:-1,MusicBox SD
+http://conexaoonline.life:80/162466827635269/169924/248
+#EXTINF:-1,TRACE BRASUCA FHD
+http://conexaoonline.life:80/162466827635269/169924/27445
+#EXTINF:-1,VH1 HD
+http://conexaoonline.life:80/162466827635269/169924/2223
+#EXTINF:-1,VH1 MEGA HITS FHD
+http://conexaoonline.life:80/162466827635269/169924/111
+#EXTINF:-1,VH1 MEGA HITS SD
+http://conexaoonline.life:80/162466827635269/169924/2196
+#EXTINF:-1,WOOHOO FHD
+http://conexaoonline.life:80/162466827635269/169924/125
+#EXTINF:-1,WOOHOO HD
+http://conexaoonline.life:80/162466827635269/169924/2225
+#EXTINF:-1,WOOHOO SD
+http://conexaoonline.life:80/162466827635269/169924/2147
+#EXTINF:-1,BAND NEWS SD
+http://conexaoonline.life:80/162466827635269/169924/2201
+#EXTINF:-1,BAND NEWS HD
+http://conexaoonline.life:80/162466827635269/169924/335
+#EXTINF:-1,BAND NEWS FHD
+http://conexaoonline.life:80/162466827635269/169924/36
+#EXTINF:-1,CNN BRASIL SD
+http://conexaoonline.life:80/162466827635269/169924/19715
+#EXTINF:-1,CNN BRASIL HD
+http://conexaoonline.life:80/162466827635269/169924/19716
+#EXTINF:-1,CNN BRASIL FHd
+http://conexaoonline.life:80/162466827635269/169924/19651
+#EXTINF:-1,RECORD NEWS SD
+http://conexaoonline.life:80/162466827635269/169924/2113
+#EXTINF:-1,RECORD NEWS HD
+http://conexaoonline.life:80/162466827635269/169924/2114
+#EXTINF:-1,RECORD NEWS FHD
+http://conexaoonline.life:80/162466827635269/169924/76
+#EXTINF:-1,GLOBO NEWS SD
+http://conexaoonline.life:80/162466827635269/169924/2079
+#EXTINF:-1,GLOBO NEWS HD
+http://conexaoonline.life:80/162466827635269/169924/365
+#EXTINF:-1,GLOBO NEWS FHD
+http://conexaoonline.life:80/162466827635269/169924/162
+#EXTINF:-1,CNN INTERNACIONAL HD
+http://conexaoonline.life:80/162466827635269/169924/192
+#EXTINF:-1,DW ALEMANHA HD
+http://conexaoonline.life:80/162466827635269/169924/271
+#EXTINF:-1,NHK SD
+http://conexaoonline.life:80/162466827635269/169924/235
+#EXTINF:-1,CANAL ARGENTINA HD
+http://conexaoonline.life:80/162466827635269/169924/266
+#EXTINF:-1,BABY TV SD
+http://conexaoonline.life:80/162466827635269/169924/188
+#EXTINF:-1,BABY TV HD
+http://conexaoonline.life:80/162466827635269/169924/2200
+#EXTINF:-1,BOOMERANG SD
+http://conexaoonline.life:80/162466827635269/169924/216
+#EXTINF:-1,BOOMERANG SD
+http://conexaoonline.life:80/162466827635269/169924/238
+#EXTINF:-1,BOOMERANG HD
+http://conexaoonline.life:80/162466827635269/169924/265
+#EXTINF:-1,BOOMERANG FHD
+http://conexaoonline.life:80/162466827635269/169924/79
+#EXTINF:-1,CARTOON NETWORK SD
+http://conexaoonline.life:80/162466827635269/169924/239
+#EXTINF:-1,CARTOON NETWORK HD
+http://conexaoonline.life:80/162466827635269/169924/338
+#EXTINF:-1,Cartoon Network FHD
+http://conexaoonline.life:80/162466827635269/169924/38
+#EXTINF:-1,DISCOVERY KIDS SD
+http://conexaoonline.life:80/162466827635269/169924/224
+#EXTINF:-1,DISCOVERY KIDS HD
+http://conexaoonline.life:80/162466827635269/169924/267
+#EXTINF:-1,DISCOVERY KIDS FHD
+http://conexaoonline.life:80/162466827635269/169924/83
+#EXTINF:-1,DISNEY CHANNEL SD
+http://conexaoonline.life:80/162466827635269/169924/240
+#EXTINF:-1,DISNEY CHANNEL HD
+http://conexaoonline.life:80/162466827635269/169924/347
+#EXTINF:-1,DISNEY CHANNEL FHD
+http://conexaoonline.life:80/162466827635269/169924/85
+#EXTINF:-1,DISNEY JR SD
+http://conexaoonline.life:80/162466827635269/169924/193
+#EXTINF:-1,DISNEY JR HD
+http://conexaoonline.life:80/162466827635269/169924/269
+#EXTINF:-1,DISNEY JR FHD
+http://conexaoonline.life:80/162466827635269/169924/86
+#EXTINF:-1,DISNEY XD SD
+http://conexaoonline.life:80/162466827635269/169924/2048
+#EXTINF:-1,DISNEY XD HD
+http://conexaoonline.life:80/162466827635269/169924/324
+#EXTINF:-1,DISNEY XD FHD
+http://conexaoonline.life:80/162466827635269/169924/87
+#EXTINF:-1,GLOOB SD
+http://conexaoonline.life:80/162466827635269/169924/233
+#EXTINF:-1,GLOOB HD
+http://conexaoonline.life:80/162466827635269/169924/318
+#EXTINF:-1,GLOOB FHD
+http://conexaoonline.life:80/162466827635269/169924/91
+#EXTINF:-1,GLOOBINHO SD
+http://conexaoonline.life:80/162466827635269/169924/2080
+#EXTINF:-1,GLOOBINHO HD
+http://conexaoonline.life:80/162466827635269/169924/2081
+#EXTINF:-1,GLOOBINHO FHD
+http://conexaoonline.life:80/162466827635269/169924/2226
+#EXTINF:-1,NATGEO KIDS SD
+http://conexaoonline.life:80/162466827635269/169924/2092
+#EXTINF:-1,NATGEO KIDS HD
+http://conexaoonline.life:80/162466827635269/169924/353
+#EXTINF:-1,NATGEO KIDS FHD
+http://conexaoonline.life:80/162466827635269/169924/57
+#EXTINF:-1,NICK HD
+http://conexaoonline.life:80/162466827635269/169924/362
+#EXTINF:-1,NICK FHD
+http://conexaoonline.life:80/162466827635269/169924/2227
+#EXTINF:-1,NICKJR SD
+http://conexaoonline.life:80/162466827635269/169924/250
+#EXTINF:-1,NICK JR HD
+http://conexaoonline.life:80/162466827635269/169924/288
+#EXTINF:-1,NICK JR FHD
+http://conexaoonline.life:80/162466827635269/169924/99
+#EXTINF:-1,NICKELODEON SD
+http://conexaoonline.life:80/162466827635269/169924/2214
+#EXTINF:-1,NICKELONDEON FHD
+http://conexaoonline.life:80/162466827635269/169924/143
+#EXTINF:-1,TOONCAST SD
+http://conexaoonline.life:80/162466827635269/169924/260
+#EXTINF:-1,TOONCAST HD
+http://conexaoonline.life:80/162466827635269/169924/359
+#EXTINF:-1,PLAYKIDS
+http://conexaoonline.life:80/162466827635269/169924/2096
+#EXTINF:-1,ZOOMOO SD
+http://conexaoonline.life:80/162466827635269/169924/2148
+#EXTINF:-1,ZOOMO HD
+http://conexaoonline.life:80/162466827635269/169924/357
+#EXTINF:-1,ZOOMO FHD
+http://conexaoonline.life:80/162466827635269/169924/131
+#EXTINF:-1,ANIMAL PLANET SD
+http://conexaoonline.life:80/162466827635269/169924/195
+#EXTINF:-1,ANIMAL PLANET HD
+http://conexaoonline.life:80/162466827635269/169924/349
+#EXTINF:-1,Animal Planet FHD
+http://conexaoonline.life:80/162466827635269/169924/33
+#EXTINF:-1,DISCOVERY CHANNEL SD
+http://conexaoonline.life:80/162466827635269/169924/222
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://conexaoonline.life:80/162466827635269/169924/342
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://conexaoonline.life:80/162466827635269/169924/114
+#EXTINF:-1,HGTV SD
+http://conexaoonline.life:80/162466827635269/169924/201
+#EXTINF:-1,HGTV HD
+http://conexaoonline.life:80/162466827635269/169924/352
+#EXTINF:-1,HGTV FHD
+http://conexaoonline.life:80/162466827635269/169924/120
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://conexaoonline.life:80/162466827635269/169924/344
+#EXTINF:-1,DISCOVERY SCIENCE FHD
+http://conexaoonline.life:80/162466827635269/169924/121
+#EXTINF:-1,DISCOVERY THEATER HD
+http://conexaoonline.life:80/162466827635269/169924/345
+#EXTINF:-1,DISCOVERY THEATER FHD
+http://conexaoonline.life:80/162466827635269/169924/82
+#EXTINF:-1,DISCOVERY TURBO SD
+http://conexaoonline.life:80/162466827635269/169924/2047
+#EXTINF:-1,DISCOVERY TURBO HD
+http://conexaoonline.life:80/162466827635269/169924/268
+#EXTINF:-1,DISCOVERY TURBO FHD
+http://conexaoonline.life:80/162466827635269/169924/41
+#EXTINF:-1,DISCOVERY WORLD HD
+http://conexaoonline.life:80/162466827635269/169924/346
+#EXTINF:-1,DISCOVERY WORLD FHD
+http://conexaoonline.life:80/162466827635269/169924/84
+#EXTINF:-1,HISTORY 2 SD
+http://conexaoonline.life:80/162466827635269/169924/2086
+#EXTINF:-1,HISTORY 2 FHD
+http://conexaoonline.life:80/162466827635269/169924/50
+#EXTINF:-1,HISTORY SD
+http://conexaoonline.life:80/162466827635269/169924/196
+#EXTINF:-1,HISTORY HD
+http://conexaoonline.life:80/162466827635269/169924/281
+#EXTINF:-1,HISTORY FHD
+http://conexaoonline.life:80/162466827635269/169924/93
+#EXTINF:-1,ID SD
+http://conexaoonline.life:80/162466827635269/169924/2088
+#EXTINF:-1,ID HD
+http://conexaoonline.life:80/162466827635269/169924/369
+#EXTINF:-1,ID FHD
+http://conexaoonline.life:80/162466827635269/169924/282
+#EXTINF:-1,LOVE NATURAL FHD
+http://conexaoonline.life:80/162466827635269/169924/119
+#EXTINF:-1,MAIS GLOBOSAT SD
+http://conexaoonline.life:80/162466827635269/169924/237
+#EXTINF:-1,MAIS GLOBOSAT HD
+http://conexaoonline.life:80/162466827635269/169924/2090
+#EXTINF:-1,MAIS GLOBOSAT FHD
+http://conexaoonline.life:80/162466827635269/169924/129
+#EXTINF:-1,NATGEO WILD SD
+http://conexaoonline.life:80/162466827635269/169924/249
+#EXTINF:-1,NATGEO WILD HD
+http://conexaoonline.life:80/162466827635269/169924/371
+#EXTINF:-1,NATGEO WILD FHD
+http://conexaoonline.life:80/162466827635269/169924/98
+#EXTINF:-1,NATIONAL GEOGRAPHIC SD
+http://conexaoonline.life:80/162466827635269/169924/2093
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://conexaoonline.life:80/162466827635269/169924/2212
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
+http://conexaoonline.life:80/162466827635269/169924/56
+#EXTINF:-1,SMITHSONIAN FHD
+http://conexaoonline.life:80/162466827635269/169924/140
+#EXTINF:-1,DISCOVERY H&H SD
+http://conexaoonline.life:80/162466827635269/169924/223
+#EXTINF:-1,DISCOVERY H&H HD
+http://conexaoonline.life:80/162466827635269/169924/343
+#EXTINF:-1,DISCOVERY H&H FHD
+http://conexaoonline.life:80/162466827635269/169924/135
+#EXTINF:-1,TRUTV
+http://conexaoonline.life:80/162466827635269/169924/2138
+#EXTINF:-1,RECORD SD
+http://conexaoonline.life:80/162466827635269/169924/2217
+#EXTINF:-1,RECORD HD
+http://conexaoonline.life:80/162466827635269/169924/297
+#EXTINF:-1,RECORD FHD
+http://conexaoonline.life:80/162466827635269/169924/75
+#EXTINF:-1,RECORD RIO SD
+http://conexaoonline.life:80/162466827635269/169924/2115
+#EXTINF:-1,RECORD RIO HD
+http://conexaoonline.life:80/162466827635269/169924/2116
+#EXTINF:-1,SBT SD
+http://conexaoonline.life:80/162466827635269/169924/2122
+#EXTINF:-1,SBT HD
+http://conexaoonline.life:80/162466827635269/169924/2123
+#EXTINF:-1,SBT FHD
+http://conexaoonline.life:80/162466827635269/169924/2124
+#EXTINF:-1,SBT RIO
+http://conexaoonline.life:80/162466827635269/169924/93496
+#EXTINF:-1,SBT SP SD
+http://conexaoonline.life:80/162466827635269/169924/328
+#EXTINF:-1,SBT SP HD
+http://conexaoonline.life:80/162466827635269/169924/299
+#EXTINF:-1,SBT SP FHD
+http://conexaoonline.life:80/162466827635269/169924/104
+#EXTINF:-1,BAND SD
+http://conexaoonline.life:80/162466827635269/169924/189
+#EXTINF:-1,BAND HD
+http://conexaoonline.life:80/162466827635269/169924/264
+#EXTINF:-1,BAND FHD
+http://conexaoonline.life:80/162466827635269/169924/35
+#EXTINF:-1,BAND RS HD
+http://conexaoonline.life:80/162466827635269/169924/25665
+#EXTINF:-1,BAND RS SD
+http://conexaoonline.life:80/162466827635269/169924/25664
+#EXTINF:-1,CANAL BRASIL FHD
+http://conexaoonline.life:80/162466827635269/169924/80
+#EXTINF:-1,CANAL BRASIL HD
+http://conexaoonline.life:80/162466827635269/169924/336
+#EXTINF:-1,CANAL BRASIL SD
+http://conexaoonline.life:80/162466827635269/169924/199
+#EXTINF:-1,CANAL DO BOI
+http://conexaoonline.life:80/162466827635269/169924/18069
+#EXTINF:-1,CANAL DO BOI FHD
+http://conexaoonline.life:80/162466827635269/169924/25688
+#EXTINF:-1,FUTURA SD
+http://conexaoonline.life:80/162466827635269/169924/2041
+#EXTINF:-1,FUTURA HD
+http://conexaoonline.life:80/162466827635269/169924/2042
+#EXTINF:-1,CANAL RURAL
+http://conexaoonline.life:80/162466827635269/169924/2202
+#EXTINF:-1,RECORD BAHIA FHd
+http://conexaoonline.life:80/162466827635269/169924/25763
+#EXTINF:-1,RECORD BAHIA Hd 
+http://conexaoonline.life:80/162466827635269/169924/25762
+#EXTINF:-1,RECORD BAHIA SD
+http://conexaoonline.life:80/162466827635269/169924/25761
+#EXTINF:-1,RECORD BELEM HD
+http://conexaoonline.life:80/162466827635269/169924/2104
+#EXTINF:-1,RECORD BELEM SD
+http://conexaoonline.life:80/162466827635269/169924/2103
+#EXTINF:-1,RECORD BRASILIA HD
+http://conexaoonline.life:80/162466827635269/169924/2108
+#EXTINF:-1,RECORD BRASILIA SD
+http://conexaoonline.life:80/162466827635269/169924/2107
+#EXTINF:-1,RECORD GOIAS HD
+http://conexaoonline.life:80/162466827635269/169924/2106
+#EXTINF:-1,RECORD GOIAS SD
+http://conexaoonline.life:80/162466827635269/169924/2105
+#EXTINF:-1,RECORD MINAS HD
+http://conexaoonline.life:80/162466827635269/169924/2112
+#EXTINF:-1,RECORD MINAS SD
+http://conexaoonline.life:80/162466827635269/169924/2111
+#EXTINF:-1,RECORD PARANA HD
+http://conexaoonline.life:80/162466827635269/169924/368
+#EXTINF:-1,RECORD RIO GRANDE DO NORTE
+http://conexaoonline.life:80/162466827635269/169924/26408
+#EXTINF:-1,RECORD RS HD
+http://conexaoonline.life:80/162466827635269/169924/2118
+#EXTINF:-1,RECORD RS SD
+http://conexaoonline.life:80/162466827635269/169924/2117
+#EXTINF:-1,REDE MASSA
+http://conexaoonline.life:80/162466827635269/169924/19923
+#EXTINF:-1,REDETV FHD
+http://conexaoonline.life:80/162466827635269/169924/2121
+#EXTINF:-1,REDETV SD
+http://conexaoonline.life:80/162466827635269/169924/197
+#EXTINF:-1,RICTV MARINGA FHD
+http://conexaoonline.life:80/162466827635269/169924/19924
+#EXTINF:-1,RIT SD
+http://conexaoonline.life:80/162466827635269/169924/258
+#EXTINF:-1,SBT BAHIA ARATU FHd
+http://conexaoonline.life:80/162466827635269/169924/26405
+#EXTINF:-1,SBT CEARA JANGADEIRO FHd
+http://conexaoonline.life:80/162466827635269/169924/26407
+#EXTINF:-1,SBT GOIAS HD
+http://conexaoonline.life:80/162466827635269/169924/25740
+#EXTINF:-1,SBT INTERIOR SP FHD
+http://conexaoonline.life:80/162466827635269/169924/2127
+#EXTINF:-1,SBT MARANHÃO DIFUSORA
+http://conexaoonline.life:80/162466827635269/169924/2125
+#EXTINF:-1,SBT PARANÁ SD
+http://conexaoonline.life:80/162466827635269/169924/261
+#EXTINF:-1,SBT RS HD
+http://conexaoonline.life:80/162466827635269/169924/18167
+#EXTINF:-1,SBT RS SD
+http://conexaoonline.life:80/162466827635269/169924/18166
+#EXTINF:-1,SBT TV JORNAL
+http://conexaoonline.life:80/162466827635269/169924/327
+#EXTINF:-1,SBT TV JORNAL HD
+http://conexaoonline.life:80/162466827635269/169924/2126
+#EXTINF:-1,SIC SD
+http://conexaoonline.life:80/162466827635269/169924/254
+#EXTINF:-1,TV CULTURA FHD
+http://conexaoonline.life:80/162466827635269/169924/109
+#EXTINF:-1,TV CULTURA HD
+http://conexaoonline.life:80/162466827635269/169924/312
+#EXTINF:-1,TV ESCOLA
+http://conexaoonline.life:80/162466827635269/169924/18164
+#EXTINF:-1,TV GAZETA ALAGOAS FHD
+http://conexaoonline.life:80/162466827635269/169924/17848
+#EXTINF:-1,TV GAZETA HD
+http://conexaoonline.life:80/162466827635269/169924/313
+#EXTINF:-1,TV GAZETA SP FHD
+http://conexaoonline.life:80/162466827635269/169924/141
+#EXTINF:-1,TV GUARULHOS HD
+http://conexaoonline.life:80/162466827635269/169924/2142
+#EXTINF:-1,TV JUSTIÇA
+http://conexaoonline.life:80/162466827635269/169924/18163
+#EXTINF:-1,TV RA-TIM-BUM FHD
+http://conexaoonline.life:80/162466827635269/169924/134
+#EXTINF:-1,TV RA-TIM-BUM HD
+http://conexaoonline.life:80/162466827635269/169924/358
+#EXTINF:-1,TV RA-TIM-BUM SD
+http://conexaoonline.life:80/162466827635269/169924/2139
+#EXTINF:-1,TV SENADO
+http://conexaoonline.life:80/162466827635269/169924/18168
+#EXTINF:-1,TV VITORIA ES HD
+http://conexaoonline.life:80/162466827635269/169924/315
+#EXTINF:-1,TV BRASIL
+http://conexaoonline.life:80/162466827635269/169924/36646
+#EXTINF:-1,TV POÇOS
+http://conexaoonline.life:80/162466827635269/169924/40561
+#EXTINF:-1,TERRA VIVA
+http://conexaoonline.life:80/162466827635269/169924/166988
+#EXTINF:-1,RBATV 
+http://conexaoonline.life:80/162466827635269/169924/178099
+#EXTINF:-1,RECORD TV CORREIO
+http://conexaoonline.life:80/162466827635269/169924/183672
+#EXTINF:-1,TV MACHETE
+http://conexaoonline.life:80/162466827635269/169924/198415
+#EXTINF:-1,CANAL 29 SERIES ANTIGAS
+http://conexaoonline.life:80/162466827635269/169924/198416
+#EXTINF:-1,BONS TEMPOS TV
+http://conexaoonline.life:80/162466827635269/169924/198417
+#EXTINF:-1,REDE BRASIL-RBTV
+http://conexaoonline.life:80/162466827635269/169924/198418
+#EXTINF:-1,GLOBO RJ FHD
+http://conexaoonline.life:80/162466827635269/169924/2071
+#EXTINF:-1,GLOBO RJ HD
+http://conexaoonline.life:80/162466827635269/169924/179
+#EXTINF:-1,GLOBO RJ SD
+http://conexaoonline.life:80/162466827635269/169924/165
+#EXTINF:-1,GLOBO SP FHD
+http://conexaoonline.life:80/162466827635269/169924/155
+#EXTINF:-1,GLOBO SP HD
+http://conexaoonline.life:80/162466827635269/169924/160
+#EXTINF:-1,GLOBO SP SD
+http://conexaoonline.life:80/162466827635269/169924/2062
+#EXTINF:-1,GAZETA SUL ES FHD
+http://conexaoonline.life:80/162466827635269/169924/27039
+#EXTINF:-1,GAZETA SUL ES HD
+http://conexaoonline.life:80/162466827635269/169924/27038
+#EXTINF:-1,GLOBO BRASILIA HD
+http://conexaoonline.life:80/162466827635269/169924/176
+#EXTINF:-1,GLOBO BRASILIA SD
+http://conexaoonline.life:80/162466827635269/169924/156
+#EXTINF:-1,GLOBO CEARA HD
+http://conexaoonline.life:80/162466827635269/169924/19631
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD
+http://conexaoonline.life:80/162466827635269/169924/157
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+http://conexaoonline.life:80/162466827635269/169924/36703
+#EXTINF:-1,GLOBO EPTV CAMPINAS FHD
+http://conexaoonline.life:80/162466827635269/169924/36704
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO HD
+http://conexaoonline.life:80/162466827635269/169924/2064
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO SD
+http://conexaoonline.life:80/162466827635269/169924/158
+#EXTINF:-1,GLOBO EPTV SUL MINAS
+http://conexaoonline.life:80/162466827635269/169924/2065
+#EXTINF:-1,GLOBO EPTV SÃO CARLOS
+http://conexaoonline.life:80/162466827635269/169924/159
+#EXTINF:-1,GLOBO GOIANIA FHD
+http://conexaoonline.life:80/162466827635269/169924/27051
+#EXTINF:-1,GLOBO GOIANIA HD
+http://conexaoonline.life:80/162466827635269/169924/27050
+#EXTINF:-1,GLOBO GOIANIA SD
+http://conexaoonline.life:80/162466827635269/169924/19630
+#EXTINF:-1,GLOBO GOIAS FHD
+http://conexaoonline.life:80/162466827635269/169924/178
+#EXTINF:-1,GLOBO INTER TV CABUGI FHD
+http://conexaoonline.life:80/162466827635269/169924/30036
+#EXTINF:-1,GLOBO INTER TV CABUGI HD
+http://conexaoonline.life:80/162466827635269/169924/30035
+#EXTINF:-1,GLOBO INTER TV CABUGI SD
+http://conexaoonline.life:80/162466827635269/169924/161
+#EXTINF:-1,GLOBO INTER TV DOS VALES FHD
+http://conexaoonline.life:80/162466827635269/169924/25764
+#EXTINF:-1,GLOBO INTERTV ALTO LITORAL FHD
+http://conexaoonline.life:80/162466827635269/169924/27435
+#EXTINF:-1,GLOBO INTERTV ALTO LITORAL HD
+http://conexaoonline.life:80/162466827635269/169924/27434
+#EXTINF:-1,GLOBO INTERTV ALTO LITORAL SD
+http://conexaoonline.life:80/162466827635269/169924/2066
+#EXTINF:-1,GLOBO INTERTV GRANDE MINAS
+http://conexaoonline.life:80/162466827635269/169924/2067
+#EXTINF:-1,GLOBO INTERTV SERRA MAR SD
+http://conexaoonline.life:80/162466827635269/169924/2068
+#EXTINF:-1,GLOBO MARANHAO FHD
+http://conexaoonline.life:80/162466827635269/169924/26413
+#EXTINF:-1,GLOBO MARANHAO HD
+http://conexaoonline.life:80/162466827635269/169924/26412
+#EXTINF:-1,GLOBO MARANHAO SD
+http://conexaoonline.life:80/162466827635269/169924/26411
+#EXTINF:-1,GLOBO MINAS HD
+http://conexaoonline.life:80/162466827635269/169924/152
+#EXTINF:-1,GLOBO MINAS SD
+http://conexaoonline.life:80/162466827635269/169924/153
+#EXTINF:-1,GLOBO NORDESTE CEARA FHD
+http://conexaoonline.life:80/162466827635269/169924/20725
+#EXTINF:-1,GLOBO NORDESTE FHD
+http://conexaoonline.life:80/162466827635269/169924/154
+#EXTINF:-1,Globo Nordeste HD
+http://conexaoonline.life:80/162466827635269/169924/2061
+#EXTINF:-1,GLOBO NORDESTE SD
+http://conexaoonline.life:80/162466827635269/169924/163
+#EXTINF:-1,GLOBO NSC BLUMENAU FHD
+http://conexaoonline.life:80/162466827635269/169924/30038
+#EXTINF:-1,GLOBO NSC BLUMENAU HD
+http://conexaoonline.life:80/162466827635269/169924/30037
+#EXTINF:-1,GLOBO NSC BLUMENAU SD
+http://conexaoonline.life:80/162466827635269/169924/19936
+#EXTINF:-1,GLOBO NSC FLORIANOPOLIS FHD
+http://conexaoonline.life:80/162466827635269/169924/182
+#EXTINF:-1,GLOBO NSC FLORIANOPOLIS HD
+http://conexaoonline.life:80/162466827635269/169924/183
+#EXTINF:-1,GLOBO NSC JOINVILLE FHD
+http://conexaoonline.life:80/162466827635269/169924/27444
+#EXTINF:-1,GLOBO NSC JOINVILLE HD
+http://conexaoonline.life:80/162466827635269/169924/27443
+#EXTINF:-1,GLOBO NSC JOINVILLE SD
+http://conexaoonline.life:80/162466827635269/169924/27442
+#EXTINF:-1,GLOBO RBS CAXIAS DO SUL FHD
+http://conexaoonline.life:80/162466827635269/169924/27369
+#EXTINF:-1,GLOBO RBS CAXIAS DO SUL HD
+http://conexaoonline.life:80/162466827635269/169924/27368
+#EXTINF:-1,GLOBO REDE AMAZONICA MANAUS SD
+http://conexaoonline.life:80/162466827635269/169924/164
+#EXTINF:-1,GLOBO RIO GRANDE DO NORTE HD
+http://conexaoonline.life:80/162466827635269/169924/26419
+#EXTINF:-1,GLOBO RPC CURITIBA FHD
+http://conexaoonline.life:80/162466827635269/169924/19925
+#EXTINF:-1,GLOBO RPC CURITIBA SD
+http://conexaoonline.life:80/162466827635269/169924/2072
+#EXTINF:-1,GLOBO RPC FOZ DO IGUAÇU FHD
+http://conexaoonline.life:80/162466827635269/169924/27417
+#EXTINF:-1,GLOBO RPC FOZ DO IGUAÇU HD
+http://conexaoonline.life:80/162466827635269/169924/27416
+#EXTINF:-1,GLOBO RPC FOZ DO IGUAÇU SD
+http://conexaoonline.life:80/162466827635269/169924/27415
+#EXTINF:-1,GLOBO RPC PARANAVAI FHD  
+http://conexaoonline.life:80/162466827635269/169924/27438
+#EXTINF:-1,GLOBO RPC PARANAVAI HD
+http://conexaoonline.life:80/162466827635269/169924/27437
+#EXTINF:-1,GLOBO RPC PARANAVAI SD
+http://conexaoonline.life:80/162466827635269/169924/27436
+#EXTINF:-1,GLOBO RPC TV CURITIBA HD
+http://conexaoonline.life:80/162466827635269/169924/166
+#EXTINF:-1,GLOBO TV  BAHIA HD
+http://conexaoonline.life:80/162466827635269/169924/2074
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA SD
+http://conexaoonline.life:80/162466827635269/169924/167
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA HD
+http://conexaoonline.life:80/162466827635269/169924/26414
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA SD
+http://conexaoonline.life:80/162466827635269/169924/169
+#EXTINF:-1,GLOBO TV FORTALEZA FHD
+http://conexaoonline.life:80/162466827635269/169924/27054
+#EXTINF:-1,GLOBO TV FORTALEZA HD
+http://conexaoonline.life:80/162466827635269/169924/27053
+#EXTINF:-1,GLOBO TV FORTALEZA SD
+http://conexaoonline.life:80/162466827635269/169924/27052
+#EXTINF:-1,GLOBO TV GAZETA VITÓRIA FHD
+http://conexaoonline.life:80/162466827635269/169924/27431
+#EXTINF:-1,GLOBO TV GAZETA VITÓRIA HD  
+http://conexaoonline.life:80/162466827635269/169924/27430
+#EXTINF:-1,GLOBO TV GAZETA VITÓRIA SD
+http://conexaoonline.life:80/162466827635269/169924/27429
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO ARAXÁ FHD
+http://conexaoonline.life:80/162466827635269/169924/27420
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO ARAXÁ HD
+http://conexaoonline.life:80/162466827635269/169924/27419
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO ARAXÁ SD
+http://conexaoonline.life:80/162466827635269/169924/27418
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO JF FHD
+http://conexaoonline.life:80/162466827635269/169924/27423
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO JF SD
+http://conexaoonline.life:80/162466827635269/169924/27421
+#EXTINF:-1,GLOBO TV LIBERAL BELEM
+http://conexaoonline.life:80/162466827635269/169924/2075
+#EXTINF:-1,GLOBO TV LIBERAL BELEM SD
+http://conexaoonline.life:80/162466827635269/169924/170
+#EXTINF:-1,GLOBO TV MANAUS FHD
+http://conexaoonline.life:80/162466827635269/169924/27049
+#EXTINF:-1,GLOBO TV MANAUS HD
+http://conexaoonline.life:80/162466827635269/169924/27048
+#EXTINF:-1,TV DIÁRIO HD
+http://conexaoonline.life:80/162466827635269/169924/182003
+#EXTINF:-1,TV DIÁRIO FULL HD
+http://conexaoonline.life:80/162466827635269/169924/182004
+#EXTINF:-1,PREMIERE CLUBES SD
+http://conexaoonline.life:80/162466827635269/169924/259
+#EXTINF:-1,PREMIERE CLUBES HD 
+http://conexaoonline.life:80/162466827635269/169924/289
+#EXTINF:-1,PREMIERE CLUBES FHD
+http://conexaoonline.life:80/162466827635269/169924/70
+#EXTINF:-1,PREMIERE 2 SD
+http://conexaoonline.life:80/162466827635269/169924/2097
+#EXTINF:-1,PREMIERE 2 HD
+http://conexaoonline.life:80/162466827635269/169924/291
+#EXTINF:-1,PREMIERE 2 FHD
+http://conexaoonline.life:80/162466827635269/169924/71
+#EXTINF:-1,PREMIERE 3 SD
+http://conexaoonline.life:80/162466827635269/169924/2098
+#EXTINF:-1,PREMIERE 3 HD
+http://conexaoonline.life:80/162466827635269/169924/292
+#EXTINF:-1,PREMIERE 3 FHD
+http://conexaoonline.life:80/162466827635269/169924/72
+#EXTINF:-1,PREMIERE 4 SD
+http://conexaoonline.life:80/162466827635269/169924/251
+#EXTINF:-1,PREMIERE 4 HD
+http://conexaoonline.life:80/162466827635269/169924/290
+#EXTINF:-1,PREMIERE 4 FHD
+http://conexaoonline.life:80/162466827635269/169924/73
+#EXTINF:-1,PREMIERE 5 SD
+http://conexaoonline.life:80/162466827635269/169924/2099
+#EXTINF:-1,PREMIERE 5 HD
+http://conexaoonline.life:80/162466827635269/169924/293
+#EXTINF:-1,PREMIERE 5 FHD
+http://conexaoonline.life:80/162466827635269/169924/101
+#EXTINF:-1,PREMIERE 6 SD
+http://conexaoonline.life:80/162466827635269/169924/2100
+#EXTINF:-1,PREMIERE 6 HD
+http://conexaoonline.life:80/162466827635269/169924/294
+#EXTINF:-1,PREMIERE 6 FHD
+http://conexaoonline.life:80/162466827635269/169924/102
+#EXTINF:-1,PREMIERE 7 SD
+http://conexaoonline.life:80/162466827635269/169924/252
+#EXTINF:-1,PREMIERE 7 HD
+http://conexaoonline.life:80/162466827635269/169924/2101
+#EXTINF:-1,PREMIERE 7 FHD
+http://conexaoonline.life:80/162466827635269/169924/115
+#EXTINF:-1,PREMIERE 8 SD
+http://conexaoonline.life:80/162466827635269/169924/253
+#EXTINF:-1,SPORTV SD
+http://conexaoonline.life:80/162466827635269/169924/2129
+#EXTINF:-1,SPORTV HD
+http://conexaoonline.life:80/162466827635269/169924/301
+#EXTINF:-1,SPORTV FHD
+http://conexaoonline.life:80/162466827635269/169924/66
+#EXTINF:-1,SPORTV 2 SD
+http://conexaoonline.life:80/162466827635269/169924/2130
+#EXTINF:-1,SPORTV 2 HD 
+http://conexaoonline.life:80/162466827635269/169924/302
+#EXTINF:-1,SPORTV 2 FHD
+http://conexaoonline.life:80/162466827635269/169924/68
+#EXTINF:-1,SPORTV 3 SD
+http://conexaoonline.life:80/162466827635269/169924/229
+#EXTINF:-1,SPORTV 3 HD
+http://conexaoonline.life:80/162466827635269/169924/303
+#EXTINF:-1,SPORTV 3 FHD
+http://conexaoonline.life:80/162466827635269/169924/69
+#EXTINF:-1,BAND SPORTS SD
+http://conexaoonline.life:80/162466827635269/169924/220
+#EXTINF:-1,BAND SPORTS HD
+http://conexaoonline.life:80/162466827635269/169924/321
+#EXTINF:-1,BAND SPORTS FHD
+http://conexaoonline.life:80/162466827635269/169924/37
+#EXTINF:-1,COMBATE SD
+http://conexaoonline.life:80/162466827635269/169924/202
+#EXTINF:-1,COMBATE HD
+http://conexaoonline.life:80/162466827635269/169924/340
+#EXTINF:-1,COMBATE FHD
+http://conexaoonline.life:80/162466827635269/169924/39
+#EXTINF:-1,Conmebol 1 SD
+http://conexaoonline.life:80/162466827635269/169924/30177
+#EXTINF:-1,Conmebol 1 HD
+http://conexaoonline.life:80/162466827635269/169924/30173
+#EXTINF:-1,CONMEBOL 1 FHD 
+http://conexaoonline.life:80/162466827635269/169924/25548
+#EXTINF:-1,Conmebol 2 SD
+http://conexaoonline.life:80/162466827635269/169924/30178
+#EXTINF:-1,Conmebol 2 HD
+http://conexaoonline.life:80/162466827635269/169924/30176
+#EXTINF:-1,CONMEBOL 2 FHD 
+http://conexaoonline.life:80/162466827635269/169924/19462
+#EXTINF:-1,Conmebol 3 SD
+http://conexaoonline.life:80/162466827635269/169924/30179
+#EXTINF:-1,Conmebol 3 HD
+http://conexaoonline.life:80/162466827635269/169924/30174
+#EXTINF:-1,CONMEBOL 3 FHD
+http://conexaoonline.life:80/162466827635269/169924/25549
+#EXTINF:-1,Conmebol 4 SD
+http://conexaoonline.life:80/162466827635269/169924/30180
+#EXTINF:-1,Conmebol 4 HD
+http://conexaoonline.life:80/162466827635269/169924/30175
+#EXTINF:-1,CONMEBOL 4 FHD
+http://conexaoonline.life:80/162466827635269/169924/2193
+#EXTINF:-1,ESPN SD
+http://conexaoonline.life:80/162466827635269/169924/2051
+#EXTINF:-1,ESPN HD
+http://conexaoonline.life:80/162466827635269/169924/348
+#EXTINF:-1,ESPN FHD
+http://conexaoonline.life:80/162466827635269/169924/144
+#EXTINF:-1,ESPN 2 SD
+http://conexaoonline.life:80/162466827635269/169924/2052
+#EXTINF:-1,ESPN 2 HD
+http://conexaoonline.life:80/162466827635269/169924/273
+#EXTINF:-1,ESPN 2 FHD
+http://conexaoonline.life:80/162466827635269/169924/42
+#EXTINF:-1,ESPN  BRASIL SD
+http://conexaoonline.life:80/162466827635269/169924/241
+#EXTINF:-1,ESPN  BRASIL HD
+http://conexaoonline.life:80/162466827635269/169924/2053
+#EXTINF:-1,ESPN  BRASIL FHD
+http://conexaoonline.life:80/162466827635269/169924/43
+#EXTINF:-1,ESPN EXTRA SD
+http://conexaoonline.life:80/162466827635269/169924/2054
+#EXTINF:-1,ESPN EXTRA HD
+http://conexaoonline.life:80/162466827635269/169924/274
+#EXTINF:-1,ESPN EXTRA FHD
+http://conexaoonline.life:80/162466827635269/169924/88
+#EXTINF:-1,FOX SPORTS SD
+http://conexaoonline.life:80/162466827635269/169924/194
+#EXTINF:-1,FOX SPORTS HD
+http://conexaoonline.life:80/162466827635269/169924/319
+#EXTINF:-1,FOX SPORTS FHD
+http://conexaoonline.life:80/162466827635269/169924/48
+#EXTINF:-1,FOX SPORTS 2 SD
+http://conexaoonline.life:80/162466827635269/169924/2059
+#EXTINF:-1,FOX SPORTS 2 HD
+http://conexaoonline.life:80/162466827635269/169924/31
+#EXTINF:-1,FOX SPORTS 2 FHD
+http://conexaoonline.life:80/162466827635269/169924/49
+#EXTINF:-1,Dazn SD
+http://conexaoonline.life:80/162466827635269/169924/2045
+#EXTINF:-1,Dazn HD
+http://conexaoonline.life:80/162466827635269/169924/528
+#EXTINF:-1,Dazn FHD
+http://conexaoonline.life:80/162466827635269/169924/2046
+#EXTINF:-1,DAZN 3 Alternativo SD
+http://conexaoonline.life:80/162466827635269/169924/42078
+#EXTINF:-1,DAZN 3 Alternativo HD
+http://conexaoonline.life:80/162466827635269/169924/42079
+#EXTINF:-1,DAZN 3 Alternativo FHD
+http://conexaoonline.life:80/162466827635269/169924/42080
+#EXTINF:-1,RAI ITÁLIA
+http://conexaoonline.life:80/162466827635269/169924/25282
+#EXTINF:-1,ABUDABI SPORTS 1 HD
+http://conexaoonline.life:80/162466827635269/169924/42088
+#EXTINF:-1,ABUDABI SPORTS 2 HD
+http://conexaoonline.life:80/162466827635269/169924/42089
+#EXTINF:-1,ABUDABI SPORTS 3 HD
+http://conexaoonline.life:80/162466827635269/169924/42090
+#EXTINF:-1,ABUDABI SPORTS 5HD
+http://conexaoonline.life:80/162466827635269/169924/42092
+#EXTINF:-1,Copa Nordeste
+http://conexaoonline.life:80/162466827635269/169924/101583
+#EXTINF:-1,Copa Nordeste HD
+http://conexaoonline.life:80/162466827635269/169924/101587
+#EXTINF:-1,Copa Nordeste 2
+http://conexaoonline.life:80/162466827635269/169924/101584
+#EXTINF:-1,Copa Nordeste 2 HD
+http://conexaoonline.life:80/162466827635269/169924/101585
+#EXTINF:-1,Copa Nordeste 3
+http://conexaoonline.life:80/162466827635269/169924/101586
+#EXTINF:-1,Copa Nordeste 3 HD
+http://conexaoonline.life:80/162466827635269/169924/101582
+#EXTINF:-1,Copa Nordeste 4
+http://conexaoonline.life:80/162466827635269/169924/113508
+#EXTINF:-1,Copa Nordeste 4 HD
+http://conexaoonline.life:80/162466827635269/169924/113507
+#EXTINF:-1,Copa Nordeste 5
+http://conexaoonline.life:80/162466827635269/169924/113510
+#EXTINF:-1,Copa Nordeste 5 HD
+http://conexaoonline.life:80/162466827635269/169924/113509
+#EXTINF:-1,Copa Catarinense 
+http://conexaoonline.life:80/162466827635269/169924/101589
+#EXTINF:-1,Copa Catarinense  HD
+http://conexaoonline.life:80/162466827635269/169924/18964
+#EXTINF:-1,Copa Catarinense HD
+http://conexaoonline.life:80/162466827635269/169924/101590
+#EXTINF:-1,Copa Catarinense 2 
+http://conexaoonline.life:80/162466827635269/169924/101591
+#EXTINF:-1,Copa Catarinense 2 HD
+http://conexaoonline.life:80/162466827635269/169924/101592
+#EXTINF:-1,Copa Catarinense 3
+http://conexaoonline.life:80/162466827635269/169924/101593
+#EXTINF:-1,Copa Catarinense 3 HD
+http://conexaoonline.life:80/162466827635269/169924/101594
+#EXTINF:-1,Copa Catarinense 4
+http://conexaoonline.life:80/162466827635269/169924/101595
+#EXTINF:-1,Copa Catarinense 4 HD
+http://conexaoonline.life:80/162466827635269/169924/101588
+#EXTINF:-1,Copa Catarinense 5
+http://conexaoonline.life:80/162466827635269/169924/113506
+#EXTINF:-1,Copa Catarinense 5 HD
+http://conexaoonline.life:80/162466827635269/169924/113505
+#EXTINF:-1,CAMPEONATO CARIOCA SD
+http://conexaoonline.life:80/162466827635269/169924/113502
+#EXTINF:-1,CAMPEONATO CARIOCA HD
+http://conexaoonline.life:80/162466827635269/169924/102439
+#EXTINF:-1,CAMPEONATO CARIOCA 2
+http://conexaoonline.life:80/162466827635269/169924/102440
+#EXTINF:-1,CAMPEONATO CARIOCA HD 2
+http://conexaoonline.life:80/162466827635269/169924/102441
+#EXTINF:-1,CAMPEONATO CARIOCA 3
+http://conexaoonline.life:80/162466827635269/169924/102442
+#EXTINF:-1,CAMPEONATO CARIOCA HD 3
+http://conexaoonline.life:80/162466827635269/169924/102443
+#EXTINF:-1,CAMPEONATO CARIOCA SD 4
+http://conexaoonline.life:80/162466827635269/169924/113504
+#EXTINF:-1,CAMPEONATO CARIOCA HD 4
+http://conexaoonline.life:80/162466827635269/169924/113503
+#EXTINF:-1,FORMULA 1 TV HD
+http://conexaoonline.life:80/162466827635269/169924/109398
+#EXTINF:-1,FORMULA 1 TV FHD
+http://conexaoonline.life:80/162466827635269/169924/109399
+#EXTINF:-1,ESTADIO TNT HD
+http://conexaoonline.life:80/162466827635269/169924/109401
+#EXTINF:-1,TNT SPORTS
+http://conexaoonline.life:80/162466827635269/169924/109404
+#EXTINF:-1,TNT SPORTS 01 SD₁ - 24H ONDEMAND
+http://conexaoonline.life:80/162466827635269/169924/110163
+#EXTINF:-1,TNT SPORTS HD
+http://conexaoonline.life:80/162466827635269/169924/109419
+#EXTINF:-1,TNT SPORTS 01 HD₁ - 24H ONDEMAND
+http://conexaoonline.life:80/162466827635269/169924/110162
+#EXTINF:-1,TNT SPORTS 2
+http://conexaoonline.life:80/162466827635269/169924/109405
+#EXTINF:-1,TNT SPORTS 02 SD₁ - 24H ONDEMAND
+http://conexaoonline.life:80/162466827635269/169924/110165
+#EXTINF:-1,ESTADIO TNT HD 2
+http://conexaoonline.life:80/162466827635269/169924/109400
+#EXTINF:-1,TNT SPORTS 02 HD₁ - 24H ONDEMAND
+http://conexaoonline.life:80/162466827635269/169924/110164
+#EXTINF:-1,TNT SPORTS 2 HD
+http://conexaoonline.life:80/162466827635269/169924/109406
+#EXTINF:-1,TNT SPORTS 3
+http://conexaoonline.life:80/162466827635269/169924/109407
+#EXTINF:-1,TNT SPORTS 03 SD₁ - 24H ONDEMAND
+http://conexaoonline.life:80/162466827635269/169924/110167
+#EXTINF:-1,TNT SPORTS 03 HD₁ - 24H ONDEMAND
+http://conexaoonline.life:80/162466827635269/169924/110166
+#EXTINF:-1,STADIO TNT FHD 3
+http://conexaoonline.life:80/162466827635269/169924/109402
+#EXTINF:-1,TNT SPORTS 4 SD
+http://conexaoonline.life:80/162466827635269/169924/109410
+#EXTINF:-1,TNT SPORTS 04 SD₁ - 24H ONDEMAND
+http://conexaoonline.life:80/162466827635269/169924/110169
+#EXTINF:-1,TNT SPORTS 4 HD
+http://conexaoonline.life:80/162466827635269/169924/109409
+#EXTINF:-1,TNT SPORTS 04 HD₁ - 24H ONDEMAND
+http://conexaoonline.life:80/162466827635269/169924/110168
+#EXTINF:-1,STADIO TNT FHD 4
+http://conexaoonline.life:80/162466827635269/169924/109403
+#EXTINF:-1,TNT SPORTS 5 SD
+http://conexaoonline.life:80/162466827635269/169924/109412
+#EXTINF:-1,TNT SPORTS 05 SD
+http://conexaoonline.life:80/162466827635269/169924/110171
+#EXTINF:-1,TNT SPORTS 5 HD
+http://conexaoonline.life:80/162466827635269/169924/109411
+#EXTINF:-1,TNT SPORTS 05 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110170
+#EXTINF:-1,TNT SPORTS 6 SD
+http://conexaoonline.life:80/162466827635269/169924/109414
+#EXTINF:-1,TNT SPORTS 06 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110173
+#EXTINF:-1,TNT SPORTS 6 HD
+http://conexaoonline.life:80/162466827635269/169924/109413
+#EXTINF:-1,TNT SPORTS 06 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110172
+#EXTINF:-1,TNT SPORTS 7 SD
+http://conexaoonline.life:80/162466827635269/169924/109416
+#EXTINF:-1,TNT SPORTS 07 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110175
+#EXTINF:-1,TNT SPORTS 7 HD
+http://conexaoonline.life:80/162466827635269/169924/109415
+#EXTINF:-1,TNT SPORTS 07 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110174
+#EXTINF:-1,TNT SPORTS 8 SD
+http://conexaoonline.life:80/162466827635269/169924/109418
+#EXTINF:-1,TNT SPORTS 08 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110177
+#EXTINF:-1,TNT SPORTS 8 HD
+http://conexaoonline.life:80/162466827635269/169924/109417
+#EXTINF:-1,TNT SPORTS 08 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110176
+#EXTINF:-1,TNT SPORTS 09 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110179
+#EXTINF:-1,TNT SPORTS 09 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110178
+#EXTINF:-1,TNT SPORTS 10 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110181
+#EXTINF:-1,TNT SPORTS 10 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110180
+#EXTINF:-1,TNT SPORTS 11 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110183
+#EXTINF:-1,TNT SPORTS 11 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110182
+#EXTINF:-1,TNT SPORTS 12 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110185
+#EXTINF:-1,TNT SPORTS 12 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110184
+#EXTINF:-1,TNT SPORTS 13 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110187
+#EXTINF:-1,TNT SPORTS 13 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110186
+#EXTINF:-1,TNT SPORTS 14 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110189
+#EXTINF:-1,TNT SPORTS 14 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110188
+#EXTINF:-1,TNT SPORTS 15 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110191
+#EXTINF:-1,TNT SPORTS 15 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110190
+#EXTINF:-1,TNT SPORTS 16 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110193
+#EXTINF:-1,TNT SPORTS 16 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110192
+#EXTINF:-1,TNT SPORTS 17 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110195
+#EXTINF:-1,TNT SPORTS 17 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110194
+#EXTINF:-1,TNT SPORTS 18 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110197
+#EXTINF:-1,TNT SPORTS 18 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110196
+#EXTINF:-1,TNT SPORTS 19 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110199
+#EXTINF:-1,TNT SPORTS 19 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110198
+#EXTINF:-1,TNT SPORTS 20 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110201
+#EXTINF:-1,TNT SPORTS 20 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110200
+#EXTINF:-1,LIGA FUTSAL SD
+http://conexaoonline.life:80/162466827635269/169924/109436
+#EXTINF:-1,LIGA FUTSAL HD
+http://conexaoonline.life:80/162466827635269/169924/109435
+#EXTINF:-1,FlaTV 1 SD₁ - 24H Ondemand
+http://conexaoonline.life:80/162466827635269/169924/110203
+#EXTINF:-1,FlaTV 1 HD₁ - 24H Ondemand
+http://conexaoonline.life:80/162466827635269/169924/110202
+#EXTINF:-1,FlaTV 2 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110205
+#EXTINF:-1,FlaTV 2 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110204
+#EXTINF:-1,FlaTV 3 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110207
+#EXTINF:-1,FlaTV 3 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110206
+#EXTINF:-1,FlaTV 4 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110209
+#EXTINF:-1,FlaTV 4 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110208
+#EXTINF:-1,FlaTV 5 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110211
+#EXTINF:-1,FlaTV 5 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110210
+#EXTINF:-1,Campeonato Sergipano 1 SD₁ - 24H Ondemand
+http://conexaoonline.life:80/162466827635269/169924/110213
+#EXTINF:-1,Campeonato Sergipano 1 HD₁ - 24H Ondemand
+http://conexaoonline.life:80/162466827635269/169924/110212
+#EXTINF:-1,Campeonato Sergipano 2 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110215
+#EXTINF:-1,Campeonato Sergipano 2 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110214
+#EXTINF:-1,Campeonato Sergipano 3 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110217
+#EXTINF:-1,Campeonato Sergipano 3 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110216
+#EXTINF:-1,Campeonato Sergipano 4 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110219
+#EXTINF:-1,Campeonato Sergipano 4 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110218
+#EXTINF:-1,Campeonato Sergipano 5 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110221
+#EXTINF:-1,Campeonato Sergipano 5 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110220
+#EXTINF:-1,TVN Sports 01 SD₁ - 24H Ondemand
+http://conexaoonline.life:80/162466827635269/169924/110223
+#EXTINF:-1,TVN Sports 01 HD₁ - 24H Ondemand
+http://conexaoonline.life:80/162466827635269/169924/110222
+#EXTINF:-1,TVN Sports 02 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110225
+#EXTINF:-1,TVN Sports 02 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110224
+#EXTINF:-1,TVN Sports 03 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110227
+#EXTINF:-1,TVN Sports 03 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110226
+#EXTINF:-1,TVN Sports 04 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110229
+#EXTINF:-1,TVN Sports 04 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110228
+#EXTINF:-1,TVN Sports 05 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110231
+#EXTINF:-1,TVN Sports 05 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110230
+#EXTINF:-1,TVN Sports 06 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110233
+#EXTINF:-1,TVN Sports 06 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110232
+#EXTINF:-1,TVN Sports 07 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110235
+#EXTINF:-1,TVN Sports 07 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110234
+#EXTINF:-1,TVN Sports 08 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110237
+#EXTINF:-1,TVN Sports 08 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110236
+#EXTINF:-1,TVN Sports 09 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110239
+#EXTINF:-1,TVN Sports 09 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110238
+#EXTINF:-1,TVN Sports 10 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110241
+#EXTINF:-1,TVN Sports 10 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110240
+#EXTINF:-1,Vasco TV 1 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110243
+#EXTINF:-1,Vasco TV 1 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110242
+#EXTINF:-1,Vasco TV 2 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110245
+#EXTINF:-1,Vasco TV 2 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110244
+#EXTINF:-1,Vasco TV 3 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110247
+#EXTINF:-1,Vasco TV 3 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110246
+#EXTINF:-1,Vasco TV 4 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110249
+#EXTINF:-1,Vasco TV 4 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110248
+#EXTINF:-1,DAZN 1 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110701
+#EXTINF:-1,DAZN 1 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110700
+#EXTINF:-1,DAZN 2 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110703
+#EXTINF:-1,DAZN 2 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110702
+#EXTINF:-1,DAZN 3 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110705
+#EXTINF:-1,DAZN 3 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110704
+#EXTINF:-1,DAZN 4 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110699
+#EXTINF:-1,DAZN 4 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110706
+#EXTINF:-1,Campeonato Mineiro 1 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110708
+#EXTINF:-1,Campeonato Mineiro 1 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110707
+#EXTINF:-1,Campeonato Mineiro 2 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110710
+#EXTINF:-1,Campeonato Mineiro 2 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110709
+#EXTINF:-1,Campeonato Mineiro 3 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110712
+#EXTINF:-1,Campeonato Mineiro 3 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110711
+#EXTINF:-1,Campeonato Mineiro 4 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110714
+#EXTINF:-1,Campeonato Mineiro 4 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110713
+#EXTINF:-1,Campeonato Mineiro 5 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110716
+#EXTINF:-1,Campeonato Mineiro 5 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110715
+#EXTINF:-1,BotafogoTV 1 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110717
+#EXTINF:-1,BotafogoTV 2 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110719
+#EXTINF:-1,BotafogoTV 2 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110718
+#EXTINF:-1,BotafogoTV 3 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110721
+#EXTINF:-1,BotafogoTV 3 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110720
+#EXTINF:-1,BotafogoTV 4 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110723
+#EXTINF:-1,BotafogoTV 4 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110722
+#EXTINF:-1,BotafogoTV 5 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110725
+#EXTINF:-1,BotafogoTV 5 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110724
+#EXTINF:-1,Eleven Sports 01 HD₁ - 24H Ondemand
+http://conexaoonline.life:80/162466827635269/169924/110756
+#EXTINF:-1,Eleven Sports 01 SD₁ - 24H Ondemand
+http://conexaoonline.life:80/162466827635269/169924/110757
+#EXTINF:-1,Eleven Sports 02 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110758
+#EXTINF:-1,Eleven Sports 02 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110759
+#EXTINF:-1,Eleven Sports 03 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110760
+#EXTINF:-1,Eleven Sports 03 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110761
+#EXTINF:-1,Eleven Sports 04 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110762
+#EXTINF:-1,Eleven Sports 04 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110763
+#EXTINF:-1,Eleven Sports 05 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110764
+#EXTINF:-1,Eleven Sports 05 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110765
+#EXTINF:-1,Eleven Sports 06 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110766
+#EXTINF:-1,Eleven Sports 06 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110767
+#EXTINF:-1,Eleven Sports 07 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110768
+#EXTINF:-1,Eleven Sports 07 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110769
+#EXTINF:-1,Eleven Sports 08 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110770
+#EXTINF:-1,Eleven Sports 08 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110771
+#EXTINF:-1,Eleven Sports 09 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110772
+#EXTINF:-1,Eleven Sports 09 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110773
+#EXTINF:-1,Eleven Sports 10 HD₁
+http://conexaoonline.life:80/162466827635269/169924/110774
+#EXTINF:-1,Eleven Sports 10 SD₁
+http://conexaoonline.life:80/162466827635269/169924/110775
+#EXTINF:-1,REAL MADRID TV  HD₁
+http://conexaoonline.life:80/162466827635269/169924/110776
+#EXTINF:-1,REAL MADRID TV  FHD₁
+http://conexaoonline.life:80/162466827635269/169924/110777
+#EXTINF:-1,RED BULL TV FHD₁
+http://conexaoonline.life:80/162466827635269/169924/110778
+#EXTINF:-1,RED BULL TV HD₁
+http://conexaoonline.life:80/162466827635269/169924/110779
+#EXTINF:-1,RED BULL TV SD₁
+http://conexaoonline.life:80/162466827635269/169924/110780
+#EXTINF:-1,ONEFOOTBALL 01 SD₁
+http://conexaoonline.life:80/162466827635269/169924/112708
+#EXTINF:-1,ONEFOOTBALL 01 HD₁
+http://conexaoonline.life:80/162466827635269/169924/112689
+#EXTINF:-1,ONEFOOTBALL 02 SD₁
+http://conexaoonline.life:80/162466827635269/169924/112691
+#EXTINF:-1,ONEFOOTBALL 02 HD₁
+http://conexaoonline.life:80/162466827635269/169924/112690
+#EXTINF:-1,ONEFOOTBALL 03 SD₁
+http://conexaoonline.life:80/162466827635269/169924/112693
+#EXTINF:-1,ONEFOOTBALL 03 HD₁
+http://conexaoonline.life:80/162466827635269/169924/112692
+#EXTINF:-1,ONEFOOTBALL 04 SD₁
+http://conexaoonline.life:80/162466827635269/169924/112695
+#EXTINF:-1,ONEFOOTBALL 04 HD₁
+http://conexaoonline.life:80/162466827635269/169924/112694
+#EXTINF:-1,ONEFOOTBALL 05 SD₁
+http://conexaoonline.life:80/162466827635269/169924/112697
+#EXTINF:-1,ONEFOOTBALL 05 HD₁
+http://conexaoonline.life:80/162466827635269/169924/112696
+#EXTINF:-1,ONEFOOTBALL 06 SD₁
+http://conexaoonline.life:80/162466827635269/169924/112699
+#EXTINF:-1,ONEFOOTBALL 06 HD₁
+http://conexaoonline.life:80/162466827635269/169924/112698
+#EXTINF:-1,ONEFOOTBALL 07 SD₁
+http://conexaoonline.life:80/162466827635269/169924/112701
+#EXTINF:-1,ONEFOOTBALL 07 HD₁
+http://conexaoonline.life:80/162466827635269/169924/112700
+#EXTINF:-1,ONEFOOTBALL 08 SD₁
+http://conexaoonline.life:80/162466827635269/169924/112703
+#EXTINF:-1,ONEFOOTBALL 08 HD₁
+http://conexaoonline.life:80/162466827635269/169924/112702
+#EXTINF:-1,ONEFOOTBALL 09 SD₁
+http://conexaoonline.life:80/162466827635269/169924/112705
+#EXTINF:-1,ONEFOOTBALL 09 HD₁
+http://conexaoonline.life:80/162466827635269/169924/112704
+#EXTINF:-1,ONEFOOTBALL 10 SD₁
+http://conexaoonline.life:80/162466827635269/169924/112707
+#EXTINF:-1,ONEFOOTBALL 10 HD₁
+http://conexaoonline.life:80/162466827635269/169924/112706
+#EXTINF:-1,ONEFOOTBALL 11 SD₁
+http://conexaoonline.life:80/162466827635269/169924/112712
+#EXTINF:-1,ONEFOOTBALL 11 HD₁
+http://conexaoonline.life:80/162466827635269/169924/112711
+#EXTINF:-1,ONEFOOTBALL 12 SD₁
+http://conexaoonline.life:80/162466827635269/169924/112714
+#EXTINF:-1,ONEFOOTBALL 12 HD₁
+http://conexaoonline.life:80/162466827635269/169924/112713
+#EXTINF:-1,ONEFOOTBALL 13 SD₁
+http://conexaoonline.life:80/162466827635269/169924/112716
+#EXTINF:-1,ONEFOOTBALL 13 HD₁
+http://conexaoonline.life:80/162466827635269/169924/112715
+#EXTINF:-1,ONEFOOTBALL 14 SD₁
+http://conexaoonline.life:80/162466827635269/169924/112718
+#EXTINF:-1,ONEFOOTBALL 14 HD₁
+http://conexaoonline.life:80/162466827635269/169924/112717
+#EXTINF:-1,ONEFOOTBALL 15 SD₁
+http://conexaoonline.life:80/162466827635269/169924/112720
+#EXTINF:-1,ONEFOOTBALL 15 HD₁
+http://conexaoonline.life:80/162466827635269/169924/112719
+#EXTINF:-1,ONEFOOTBALL 16 SD₁
+http://conexaoonline.life:80/162466827635269/169924/112722
+#EXTINF:-1,ONEFOOTBALL 16 HD₁
+http://conexaoonline.life:80/162466827635269/169924/112721
+#EXTINF:-1,ONEFOOTBALL 17 SD₁
+http://conexaoonline.life:80/162466827635269/169924/112724
+#EXTINF:-1,ONEFOOTBALL 17 HD₁
+http://conexaoonline.life:80/162466827635269/169924/112723
+#EXTINF:-1,ONEFOOTBALL 18 SD₁
+http://conexaoonline.life:80/162466827635269/169924/112726
+#EXTINF:-1,ONEFOOTBALL 18 HD₁
+http://conexaoonline.life:80/162466827635269/169924/112725
+#EXTINF:-1,ONEFOOTBALL 19 SD₁
+http://conexaoonline.life:80/162466827635269/169924/112728
+#EXTINF:-1,ONEFOOTBALL 19 HD₁
+http://conexaoonline.life:80/162466827635269/169924/112727
+#EXTINF:-1,ONEFOOTBALL 20 SD₁
+http://conexaoonline.life:80/162466827635269/169924/112730
+#EXTINF:-1,ONEFOOTBALL 20 HD₁
+http://conexaoonline.life:80/162466827635269/169924/112729
+#EXTINF:-1,PalmeirasTV 1 HD₁
+http://conexaoonline.life:80/162466827635269/169924/113511
+#EXTINF:-1,PalmeirasTV 2 SD₁
+http://conexaoonline.life:80/162466827635269/169924/113512
+#EXTINF:-1,PalmeirasTV 1 SD₁
+http://conexaoonline.life:80/162466827635269/169924/113513
+#EXTINF:-1,PalmeirasTV 2 HD₁
+http://conexaoonline.life:80/162466827635269/169924/113514
+#EXTINF:-1,PalmeirasTV 3 HD₁
+http://conexaoonline.life:80/162466827635269/169924/113515
+#EXTINF:-1,PalmeirasTV 3 SD₁
+http://conexaoonline.life:80/162466827635269/169924/113516
+#EXTINF:-1,PalmeirasTV 4 HD₁
+http://conexaoonline.life:80/162466827635269/169924/113517
+#EXTINF:-1,PalmeirasTV 4 SD₁
+http://conexaoonline.life:80/162466827635269/169924/113518
+#EXTINF:-1,PalmeirasTV 5 HD₁
+http://conexaoonline.life:80/162466827635269/169924/113519
+#EXTINF:-1,PalmeirasTV 5 SD₁
+http://conexaoonline.life:80/162466827635269/169924/113520
+#EXTINF:-1,USA | NBA TV
+http://conexaoonline.life:80/162466827635269/169924/160882
+#EXTINF:-1,USA-NBA TV
+http://conexaoonline.life:80/162466827635269/169924/160922
+#EXTINF:-1,CAMPEONATO PARAIBANO HD
+http://conexaoonline.life:80/162466827635269/169924/162817
+#EXTINF:-1,CAMPEONATO PARAIBANO SD
+http://conexaoonline.life:80/162466827635269/169924/162818
+#EXTINF:-1,TNT SPORTS 3 HD
+http://conexaoonline.life:80/162466827635269/169924/109408
+#EXTINF:-1,OLIMPÍADAS 2021 SD
+http://conexaoonline.life:80/162466827635269/169924/184268
+#EXTINF:-1,OLIMPÍADAS 2021 HD
+http://conexaoonline.life:80/162466827635269/169924/184269
+#EXTINF:-1,A&E SD
+http://conexaoonline.life:80/162466827635269/169924/210
+#EXTINF:-1,A&E HD
+http://conexaoonline.life:80/162466827635269/169924/332
+#EXTINF:-1,A&E FHD
+http://conexaoonline.life:80/162466827635269/169924/32
+#EXTINF:-1,AMC SD
+http://conexaoonline.life:80/162466827635269/169924/367
+#EXTINF:-1,AMC HD
+http://conexaoonline.life:80/162466827635269/169924/330
+#EXTINF:-1,AMC FHD
+http://conexaoonline.life:80/162466827635269/169924/175
+#EXTINF:-1,AXN SD
+http://conexaoonline.life:80/162466827635269/169924/211
+#EXTINF:-1,AXN HD
+http://conexaoonline.life:80/162466827635269/169924/329
+#EXTINF:-1,AXN FHD
+http://conexaoonline.life:80/162466827635269/169924/34
+#EXTINF:-1,CINEMAX SD
+http://conexaoonline.life:80/162466827635269/169924/217
+#EXTINF:-1,CINEMAX HD
+http://conexaoonline.life:80/162466827635269/169924/339
+#EXTINF:-1,CINEMAX FHD
+http://conexaoonline.life:80/162466827635269/169924/81
+#EXTINF:-1,COMEDY CENTRAL SD
+http://conexaoonline.life:80/162466827635269/169924/198
+#EXTINF:-1,COMEDY CENTRAL HD
+http://conexaoonline.life:80/162466827635269/169924/341
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://conexaoonline.life:80/162466827635269/169924/40
+#EXTINF:-1,FILM&ARTS SD
+http://conexaoonline.life:80/162466827635269/169924/2055
+#EXTINF:-1,FILM&ARTS FHD
+http://conexaoonline.life:80/162466827635269/169924/112
+#EXTINF:-1,STAR CHANNEL SD
+http://conexaoonline.life:80/162466827635269/169924/244
+#EXTINF:-1,STAR CHANNEL HD
+http://conexaoonline.life:80/162466827635269/169924/2207
+#EXTINF:-1,STAR CHANNEL FHD
+http://conexaoonline.life:80/162466827635269/169924/44
+#EXTINF:-1,STAR HITS SD
+http://conexaoonline.life:80/162466827635269/169924/2056
+#EXTINF:-1,STAR HITS HD
+http://conexaoonline.life:80/162466827635269/169924/2057
+#EXTINF:-1,STAR HITS FHD
+http://conexaoonline.life:80/162466827635269/169924/46
+#EXTINF:-1,STAR HITS 2 SD
+http://conexaoonline.life:80/162466827635269/169924/2058
+#EXTINF:-1,STAR HITS 2 HD
+http://conexaoonline.life:80/162466827635269/169924/277
+#EXTINF:-1,STAR HITS 2 FHD
+http://conexaoonline.life:80/162466827635269/169924/47
+#EXTINF:-1,FX SD
+http://conexaoonline.life:80/162466827635269/169924/206
+#EXTINF:-1,FX HD
+http://conexaoonline.life:80/162466827635269/169924/2208
+#EXTINF:-1,FX FHD
+http://conexaoonline.life:80/162466827635269/169924/90
+#EXTINF:-1,LIKE FHD
+http://conexaoonline.life:80/162466827635269/169924/128
+#EXTINF:-1,MEGAPIX SD
+http://conexaoonline.life:80/162466827635269/169924/219
+#EXTINF:-1,MEGAPIX HD
+http://conexaoonline.life:80/162466827635269/169924/356
+#EXTINF:-1,MEGAPIX FHD
+http://conexaoonline.life:80/162466827635269/169924/145
+#EXTINF:-1,PARAMOUNT SD
+http://conexaoonline.life:80/162466827635269/169924/228
+#EXTINF:-1,PARAMOUNT HD
+http://conexaoonline.life:80/162466827635269/169924/2215
+#EXTINF:-1,PARAMOUNT FHD
+http://conexaoonline.life:80/162466827635269/169924/100
+#EXTINF:-1,PRIMEBOX BRASIL SD
+http://conexaoonline.life:80/162466827635269/169924/218
+#EXTINF:-1,SONY SD
+http://conexaoonline.life:80/162466827635269/169924/2043
+#EXTINF:-1,SONY HD
+http://conexaoonline.life:80/162466827635269/169924/337
+#EXTINF:-1,SONY FHD
+http://conexaoonline.life:80/162466827635269/169924/106
+#EXTINF:-1,SPACE SD
+http://conexaoonline.life:80/162466827635269/169924/2128
+#EXTINF:-1,SPACE HD
+http://conexaoonline.life:80/162466827635269/169924/2219
+#EXTINF:-1,SPACE FHD
+http://conexaoonline.life:80/162466827635269/169924/67
+#EXTINF:-1,WARNER CHANNEL HD
+http://conexaoonline.life:80/162466827635269/169924/2220
+#EXTINF:-1,STUDIO UNIVERSAL FHD
+http://conexaoonline.life:80/162466827635269/169924/15251
+#EXTINF:-1,SYFY SD
+http://conexaoonline.life:80/162466827635269/169924/256
+#EXTINF:-1,SYFY HD
+http://conexaoonline.life:80/162466827635269/169924/361
+#EXTINF:-1,SYFY FHD
+http://conexaoonline.life:80/162466827635269/169924/107
+#EXTINF:-1,TBS SD
+http://conexaoonline.life:80/162466827635269/169924/257
+#EXTINF:-1,TBS HD
+http://conexaoonline.life:80/162466827635269/169924/304
+#EXTINF:-1,TBS FHD
+http://conexaoonline.life:80/162466827635269/169924/108
+#EXTINF:-1,TCM SD
+http://conexaoonline.life:80/162466827635269/169924/213
+#EXTINF:-1,TCM HD
+http://conexaoonline.life:80/162466827635269/169924/2221
+#EXTINF:-1,TNT SD
+http://conexaoonline.life:80/162466827635269/169924/2136
+#EXTINF:-1,TNT HD
+http://conexaoonline.life:80/162466827635269/169924/350
+#EXTINF:-1,TNT FHD
+http://conexaoonline.life:80/162466827635269/169924/123
+#EXTINF:-1,TNT SÉRIES SD
+http://conexaoonline.life:80/162466827635269/169924/2137
+#EXTINF:-1,TNT SERIES HD
+http://conexaoonline.life:80/162466827635269/169924/311
+#EXTINF:-1,TNT SERIES FHD
+http://conexaoonline.life:80/162466827635269/169924/60
+#EXTINF:-1,TRAVELBOX BRASIL FHD
+http://conexaoonline.life:80/162466827635269/169924/132
+#EXTINF:-1,STUDIO UNIVERSAL SD
+http://conexaoonline.life:80/162466827635269/169924/15249
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://conexaoonline.life:80/162466827635269/169924/15250
+#EXTINF:-1,UNIVERSAL CHANNEL FHD
+http://conexaoonline.life:80/162466827635269/169924/59
+#EXTINF:-1,WARNER CHANNEL SD
+http://conexaoonline.life:80/162466827635269/169924/2224
+#EXTINF:-1,WARNER CHANNEL FHD
+http://conexaoonline.life:80/162466827635269/169924/58
+#EXTINF:-1,CINE SUCESSOS
+http://conexaoonline.life:80/162466827635269/169924/166180
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://conexaoonline.life:80/162466827635269/169924/182588
+#EXTINF:-1,UNIVERSAL CHANNEL SD
+http://conexaoonline.life:80/162466827635269/169924/182589
+#EXTINF:-1,TELECINE ACTION SD
+http://conexaoonline.life:80/162466827635269/169924/214
+#EXTINF:-1,TELECINE ACTION HD
+http://conexaoonline.life:80/162466827635269/169924/305
+#EXTINF:-1,TELECINE ACTION FHD
+http://conexaoonline.life:80/162466827635269/169924/65
+#EXTINF:-1,TELECINE CULT SD
+http://conexaoonline.life:80/162466827635269/169924/230
+#EXTINF:-1,TELECINE CULT HD
+http://conexaoonline.life:80/162466827635269/169924/360
+#EXTINF:-1,TELECINE CULT FHD
+http://conexaoonline.life:80/162466827635269/169924/146
+#EXTINF:-1,TELECINE FUN SD
+http://conexaoonline.life:80/162466827635269/169924/231
+#EXTINF:-1,TELECINE FUN HD
+http://conexaoonline.life:80/162466827635269/169924/306
+#EXTINF:-1,TELECINE FUN FHD
+http://conexaoonline.life:80/162466827635269/169924/64
+#EXTINF:-1,TELECINE PIPOCA SD
+http://conexaoonline.life:80/162466827635269/169924/2132
+#EXTINF:-1,TELECINE PIPOCA HD
+http://conexaoonline.life:80/162466827635269/169924/307
+#EXTINF:-1,TELECINE PIPOCA FHD
+http://conexaoonline.life:80/162466827635269/169924/63
+#EXTINF:-1,TELECINE PREMIUM SD
+http://conexaoonline.life:80/162466827635269/169924/2133
+#EXTINF:-1,TELECINE PREMIUM HD
+http://conexaoonline.life:80/162466827635269/169924/308
+#EXTINF:-1,TELECINE PREMIUM FHD
+http://conexaoonline.life:80/162466827635269/169924/62
+#EXTINF:-1,TELECINE TOUCH SD
+http://conexaoonline.life:80/162466827635269/169924/2134
+#EXTINF:-1,TELECINE TOUCH HD
+http://conexaoonline.life:80/162466827635269/169924/309
+#EXTINF:-1,TELECINE TOUCH FHD
+http://conexaoonline.life:80/162466827635269/169924/61
+#EXTINF:-1,HBO SD
+http://conexaoonline.life:80/162466827635269/169924/234
+#EXTINF:-1,HBO  HD
+http://conexaoonline.life:80/162466827635269/169924/278
+#EXTINF:-1,HBO FHD
+http://conexaoonline.life:80/162466827635269/169924/52
+#EXTINF:-1,HBO 2 SD
+http://conexaoonline.life:80/162466827635269/169924/226
+#EXTINF:-1,HBO 2 HD
+http://conexaoonline.life:80/162466827635269/169924/279
+#EXTINF:-1,HBO 2 FHD
+http://conexaoonline.life:80/162466827635269/169924/51
+#EXTINF:-1,HBO FAMILY SD
+http://conexaoonline.life:80/162466827635269/169924/2084
+#EXTINF:-1,HBO FAMILY Hd
+http://conexaoonline.life:80/162466827635269/169924/2085
+#EXTINF:-1,HBO FAMILY FHD
+http://conexaoonline.life:80/162466827635269/169924/118
+#EXTINF:-1,HBO MUNDI SD
+http://conexaoonline.life:80/162466827635269/169924/203
+#EXTINF:-1,HBO MUNDI HD
+http://conexaoonline.life:80/162466827635269/169924/2210
+#EXTINF:-1,HBO MUNDI FHD
+http://conexaoonline.life:80/162466827635269/169924/95
+#EXTINF:-1,HBO POP SD
+http://conexaoonline.life:80/162466827635269/169924/2194
+#EXTINF:-1,HBO POP HD
+http://conexaoonline.life:80/162466827635269/169924/2211
+#EXTINF:-1,HBO POP FHD
+http://conexaoonline.life:80/162466827635269/169924/126
+#EXTINF:-1,HBO SIGNATURE SD
+http://conexaoonline.life:80/162466827635269/169924/2083
+#EXTINF:-1,HBO SIGNATURE HD
+http://conexaoonline.life:80/162466827635269/169924/366
+#EXTINF:-1,HBO SIGNATURE FHD
+http://conexaoonline.life:80/162466827635269/169924/92
+#EXTINF:-1,HBO XTREME SD
+http://conexaoonline.life:80/162466827635269/169924/247
+#EXTINF:-1,HBO XTREME HD
+http://conexaoonline.life:80/162466827635269/169924/283
+#EXTINF:-1,HBO XTREME FHD
+http://conexaoonline.life:80/162466827635269/169924/54
+#EXTINF:-1,HBO+ SD
+http://conexaoonline.life:80/162466827635269/169924/2195
+#EXTINF:-1,HBO+ FHD
+http://conexaoonline.life:80/162466827635269/169924/1992
+#EXTINF:-1,HBO+ HD 
+http://conexaoonline.life:80/162466827635269/169924/183686
+#EXTINF:-1,Warner Channel FHD LEG
+http://conexaoonline.life:80/162466827635269/169924/19930
+#EXTINF:-1,SyFy FHd LEG
+http://conexaoonline.life:80/162466827635269/169924/19931
+#EXTINF:-1,SyFy Hd LEG
+http://conexaoonline.life:80/162466827635269/169924/19932
+#EXTINF:-1,Warner Chanel Hd LEG
+http://conexaoonline.life:80/162466827635269/169924/19933
+#EXTINF:-1,Hbo Signature Hd LEG
+http://conexaoonline.life:80/162466827635269/169924/19934
+#EXTINF:-1,Hbo Plus  Hd LEG
+http://conexaoonline.life:80/162466827635269/169924/19935
+#EXTINF:-1,Discovery Theater FHd LEG
+http://conexaoonline.life:80/162466827635269/169924/20026
+#EXTINF:-1,Discovery Theater Hd LEG
+http://conexaoonline.life:80/162466827635269/169924/20027
+#EXTINF:-1,Telecine Cult Hd LEG
+http://conexaoonline.life:80/162466827635269/169924/20028
+#EXTINF:-1,Telecine Cult FHd LEG
+http://conexaoonline.life:80/162466827635269/169924/20029
+#EXTINF:-1,Telecine Premium Hd LEG
+http://conexaoonline.life:80/162466827635269/169924/20030
+#EXTINF:-1,Hbo Plus FHd LEG
+http://conexaoonline.life:80/162466827635269/169924/20032
+#EXTINF:-1,Globo LEG SD
+http://conexaoonline.life:80/162466827635269/169924/27424
+#EXTINF:-1,Globo LEG HD
+http://conexaoonline.life:80/162466827635269/169924/27425
+#EXTINF:-1,Globo LEG FHD
+http://conexaoonline.life:80/162466827635269/169924/27426
+#EXTINF:-1,Band Leg SD
+http://conexaoonline.life:80/162466827635269/169924/30032
+#EXTINF:-1,Band Leg HD
+http://conexaoonline.life:80/162466827635269/169924/30033
+#EXTINF:-1,Band Leg FHD
+http://conexaoonline.life:80/162466827635269/169924/30034
+#EXTINF:-1,Tv Gazeta LEG HD
+http://conexaoonline.life:80/162466827635269/169924/36699
+#EXTINF:-1,Tv Gazeta LEG FHD
+http://conexaoonline.life:80/162466827635269/169924/36700
+#EXTINF:-1,Record LEG HD
+http://conexaoonline.life:80/162466827635269/169924/36701
+#EXTINF:-1,Record LEG FHD
+http://conexaoonline.life:80/162466827635269/169924/36702
+#EXTINF:-1,Animal Planet 4K
+http://conexaoonline.life:80/162466827635269/169924/518
+#EXTINF:-1,Band 4K
+http://conexaoonline.life:80/162466827635269/169924/508
+#EXTINF:-1,Cartoon 4K
+http://conexaoonline.life:80/162466827635269/169924/521
+#EXTINF:-1,Combate 4K
+http://conexaoonline.life:80/162466827635269/169924/509
+#EXTINF:-1,Discovery Channel 4K
+http://conexaoonline.life:80/162466827635269/169924/514
+#EXTINF:-1,ESPN 4K
+http://conexaoonline.life:80/162466827635269/169924/526
+#EXTINF:-1,Star Chanel 4k
+http://conexaoonline.life:80/162466827635269/169924/20632
+#EXTINF:-1,Fox Sports 2 4K
+http://conexaoonline.life:80/162466827635269/169924/523
+#EXTINF:-1,Fox Sports 4K
+http://conexaoonline.life:80/162466827635269/169924/516
+#EXTINF:-1,Globo 4K
+http://conexaoonline.life:80/162466827635269/169924/510
+#EXTINF:-1,Hbo 4k
+http://conexaoonline.life:80/162466827635269/169924/18976
+#EXTINF:-1,HBO Xtreme 4K
+http://conexaoonline.life:80/162466827635269/169924/20631
+#EXTINF:-1,Megapix 4K
+http://conexaoonline.life:80/162466827635269/169924/522
+#EXTINF:-1,Multishow 4K
+http://conexaoonline.life:80/162466827635269/169924/520
+#EXTINF:-1,National Geographic 4K
+http://conexaoonline.life:80/162466827635269/169924/524
+#EXTINF:-1,Premiere Clubes 4K
+http://conexaoonline.life:80/162466827635269/169924/513
+#EXTINF:-1,Record 4K
+http://conexaoonline.life:80/162466827635269/169924/511
+#EXTINF:-1,Rede TV 4K
+http://conexaoonline.life:80/162466827635269/169924/512
+#EXTINF:-1,SBT 4K
+http://conexaoonline.life:80/162466827635269/169924/517
+#EXTINF:-1,Space 4K
+http://conexaoonline.life:80/162466827635269/169924/527
+#EXTINF:-1,SporTV 4K
+http://conexaoonline.life:80/162466827635269/169924/519
+#EXTINF:-1,Telecine Pipoca 4k
+http://conexaoonline.life:80/162466827635269/169924/20634
+#EXTINF:-1,Telecine Premium 4k
+http://conexaoonline.life:80/162466827635269/169924/17972
+#EXTINF:-1,TNT 4K
+http://conexaoonline.life:80/162466827635269/169924/515
+#EXTINF:-1,TNT Series 4K
+http://conexaoonline.life:80/162466827635269/169924/525
+#EXTINF:-1,Tv Gazeta 4k
+http://conexaoonline.life:80/162466827635269/169924/17971
+#EXTINF:-1,Conmebol 1 4k
+http://conexaoonline.life:80/162466827635269/169924/30172
