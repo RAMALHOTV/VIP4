@@ -5,283 +5,554 @@
 #EXTM3U
 #EXTINF:-1, [B][COLOR  yellow] RAMALHOTV[/B][/COLOR]  [B][COLOR lime] -SERVIDOR 03[/B][/COLOR]
 http://canais.servidor
-#EXTINF:-1 tvg-id="" tvg-name="Br: HBO HD" tvg-logo="http://www.vod-logo.net/photos/b85876d3637aafe73ba3dc50ae027dfa.jpg" group-title="Brazil",Br: HBO HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32932
-#EXTINF:-1 tvg-id="" tvg-name="Br: HBO 2 HD" tvg-logo="http://www.vod-logo.net/photos/c6ee5c05ed06960e3134797075af15d4.png" group-title="Brazil",Br: HBO 2 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32930
-#EXTINF:-1 tvg-id="" tvg-name="Br: HBO Family HD" tvg-logo="http://www.vod-logo.net/photos/bc94c34ea8467a191e82a249f2a10485.png" group-title="Brazil",Br: HBO Family HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32931
-#EXTINF:-1 tvg-id="" tvg-name="Br: HBO Plus HD" tvg-logo="http://www.vod-logo.net/photos/7b3fc19616539e7a4b4a46c7fb240b46.png" group-title="Brazil",Br: HBO Plus HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32933
-#EXTINF:-1 tvg-id="" tvg-name="Br: HBO Signature HD" tvg-logo="http://www.vod-logo.net/photos/e830e41982c90258cb60df46cbf35eb6.jpg" group-title="Brazil",Br: HBO Signature HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32935
-#EXTINF:-1 tvg-id="" tvg-name="Br: HBO Mundi HD" tvg-logo="http://www.vod-logo.net/photos/b238a800871a6b866596065a180fdd66.png" group-title="Brazil",Br: HBO Mundi HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32938
-#EXTINF:-1 tvg-id="" tvg-name="Br: HBO Extreme HD" tvg-logo="http://www.vod-logo.net/photos/fdeac453ed80c4c62ac98970551dda73.png" group-title="Brazil",Br: HBO Extreme HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32939
-#EXTINF:-1 tvg-id="" tvg-name="Br: HBO Pop HD" tvg-logo="http://www.vod-logo.net/photos/f662791f6afe8a539764c06c24dcb443.png" group-title="Brazil",Br: HBO Pop HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32941
-#EXTINF:-1 tvg-id="" tvg-name="Br: Premiere 1 SD" tvg-logo="http://www.vod-logo.net/photos/c346d434968dd89a1985b77b11fe50d4.png" group-title="Brazil",Br: Premiere 1 SD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32956
-#EXTINF:-1 tvg-id="" tvg-name="Br: Premiere 2 HD" tvg-logo="http://www.vod-logo.net/photos/4c0868870678993607523943dfaa7135.png" group-title="Brazil",Br: Premiere 2 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32957
-#EXTINF:-1 tvg-id="" tvg-name="Br: Premiere 3 HD" tvg-logo="http://www.vod-logo.net/photos/d9994bd1f45d60a17459c385eaf84eae.png" group-title="Brazil",Br: Premiere 3 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32958
-#EXTINF:-1 tvg-id="" tvg-name="Br: Premiere 4 HD" tvg-logo="http://www.vod-logo.net/photos/bdffa0600c9b445d36ec6ec4425b5d9c.png" group-title="Brazil",Br: Premiere 4 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32959
-#EXTINF:-1 tvg-id="" tvg-name="Br: Premiere 5 HD" tvg-logo="http://www.vod-logo.net/photos/4063e6d43042a5781a61718489649b62.png" group-title="Brazil",Br: Premiere 5 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32960
-#EXTINF:-1 tvg-id="" tvg-name="Br: Premiere 6 HD" tvg-logo="http://www.vod-logo.net/photos/b71ff733d5a6162c163e42847e0752f2.png" group-title="Brazil",Br: Premiere 6 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32961
-#EXTINF:-1 tvg-id="" tvg-name="Br: Premiere Clubes HD" tvg-logo="http://www.vod-logo.net/photos/cfb462ba1adb245365243c6c3873561d.jpg" group-title="Brazil",Br: Premiere Clubes HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32964
-#EXTINF:-1 tvg-id="" tvg-name="Br: ID Investigation Discovery HD" tvg-logo="http://www.vod-logo.net/photos/4147f4662da018ccaa41e9e0827f1af0.jpg" group-title="Brazil",Br: ID Investigation Discovery HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33024
-#EXTINF:-1 tvg-id="" tvg-name="Br: ESPN Extra HD" tvg-logo="http://www.vod-logo.net/photos/c1151548a71a96178cd054ffb55be9c2.png" group-title="Brazil",Br: ESPN Extra HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33183
-#EXTINF:-1 tvg-id="" tvg-name="Br: TV Ra Tim Bum SD" tvg-logo="http://www.vod-logo.net/photos/a5982f25848aec76c01b7d6edd5fea63.png" group-title="Brazil",Br: TV Ra Tim Bum SD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33040
-#EXTINF:-1 tvg-id="" tvg-name="Br: Band Sports HD" tvg-logo="http://www.vod-logo.net/photos/aa6d0c1de0efa824e912901e48522e2d.png" group-title="Brazil",Br: Band Sports HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33192
-#EXTINF:-1 tvg-id="" tvg-name="Br: Discovery TLC" tvg-logo="http://www.vod-logo.net/photos/6a2fd28bbb9a5720e61348235d05cd53.jpg" group-title="Brazil",Br: Discovery TLC
-http://new-pro.tv:8080/Hotel-2021/Allroom/33045
-#EXTINF:-1 tvg-id="" tvg-name="Br: Fox Life HD" tvg-logo="http://www.vod-logo.net/photos/cc026f4371841cd769bd6d86b58e5c37.jpg" group-title="Brazil",Br: Fox Life HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33046
-#EXTINF:-1 tvg-id="" tvg-name="Br- REDE BRASIL" tvg-logo="" group-title="Brazil",Br- REDE BRASIL
-http://new-pro.tv:8080/Hotel-2021/Allroom/33047
-#EXTINF:-1 tvg-id="" tvg-name="Br: Lifetime FHD" tvg-logo="http://www.vod-logo.net/photos/7479a2dd3c108efbb84d135e735278f8.png" group-title="Brazil",Br: Lifetime FHD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33053
-#EXTINF:-1 tvg-id="" tvg-name="Br- RBS TV PORTO ALEGRE" tvg-logo="" group-title="Brazil",Br- RBS TV PORTO ALEGRE
-http://new-pro.tv:8080/Hotel-2021/Allroom/33054
-#EXTINF:-1 tvg-id="" tvg-name="Br: Tru TV SD" tvg-logo="http://www.vod-logo.net/photos/1e7518961a6f399d862f036e6518d684.jpg" group-title="Brazil",Br: Tru TV SD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33055
-#EXTINF:-1 tvg-id="" tvg-name="Br: Globo NSC Florianopolis HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="Brazil",Br: Globo NSC Florianopolis HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33059
-#EXTINF:-1 tvg-id="" tvg-name="Br: TV GLOBINHO" tvg-logo="http://www.vod-logo.net/photos/bfeb8a55ef93e33d28e0666014ffadb0.png" group-title="Brazil",Br: TV GLOBINHO
-http://new-pro.tv:8080/Hotel-2021/Allroom/33061
-#EXTINF:-1 tvg-id="" tvg-name="Br: A&E HD" tvg-logo="http://www.vod-logo.net/photos/9ee9da1d1fee2b01d12140390022eb2f.jpg" group-title="Brazil",Br: A&E HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32855
-#EXTINF:-1 tvg-id="" tvg-name="Br: AMC HD" tvg-logo="http://vod-logo.net/photos/c7cea0ec0525f128734aefd3eaa0559a.jpg" group-title="Brazil",Br: AMC HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32856
-#EXTINF:-1 tvg-id="" tvg-name="Br: Animal Planet HD" tvg-logo="http://www.vod-logo.net/photos/d0d2b8959e111eb667f25fdaa183a98a.jpg" group-title="Brazil",Br: Animal Planet HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32857
-#EXTINF:-1 tvg-id="" tvg-name="Br: Arte 1 HD" tvg-logo="http://www.vod-logo.net/photos/d319f032f8f5da5010bbd0cdb993487c.png" group-title="Brazil",Br: Arte 1 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32858
-#EXTINF:-1 tvg-id="" tvg-name="Br: AXN HD" tvg-logo="http://www.vod-logo.net/photos/8cbf8edfa846021f6e3191d57c867570.jpg" group-title="Brazil",Br: AXN HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32859
-#EXTINF:-1 tvg-id="" tvg-name="Br: Band Campinas" tvg-logo="http://www.vod-logo.net/photos/63db0edfc4d9f376503d2f10349254de.png" group-title="Brazil",Br: Band Campinas
-http://new-pro.tv:8080/Hotel-2021/Allroom/32860
-#EXTINF:-1 tvg-id="" tvg-name="Br: Band SP HD" tvg-logo="http://www.vod-logo.net/photos/aa6d0c1de0efa824e912901e48522e2d.png" group-title="Brazil",Br: Band SP HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32861
-#EXTINF:-1 tvg-id="" tvg-name="Br: Band News HD" tvg-logo="http://www.vod-logo.net/photos/251242fc9e7cb80736081bfd73f580ab.png" group-title="Brazil",Br: Band News HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32862
-#EXTINF:-1 tvg-id="" tvg-name="Br: Bis HD" tvg-logo="http://www.vod-logo.net/photos/7dfb0a5707cccab8a460a01b9e0687ee.png" group-title="Brazil",Br: Bis HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32865
-#EXTINF:-1 tvg-id="" tvg-name="Br: Boomerang HD" tvg-logo="http://www.vod-logo.net/photos/a9c63aede3ceb20585dd259601a6f3f6.jpg" group-title="Brazil",Br: Boomerang HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32866
-#EXTINF:-1 tvg-id="" tvg-name="Br: Canal Brasil HD" tvg-logo="http://www.vod-logo.net/photos/7d6ac716d6e60cc83764ae4188f40955.png" group-title="Brazil",Br: Canal Brasil HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32867
-#EXTINF:-1 tvg-id="" tvg-name="Br: Cartoon Network HD" tvg-logo="http://www.vod-logo.net/photos/918ed66fc55bb226ff2c85716da1c90c.jpg" group-title="Brazil",Br: Cartoon Network HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32868
-#EXTINF:-1 tvg-id="" tvg-name="Br: Cinemax HD" tvg-logo="http://www.vod-logo.net/photos/14d30ee3303273e991cc1f7f6a32ea95.jpg" group-title="Brazil",Br: Cinemax HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32869
-#EXTINF:-1 tvg-id="" tvg-name="Br: Combate HD" tvg-logo="http://www.vod-logo.net/photos/2ab115291c98dcccd76e469cb8221f69.png" group-title="Brazil",Br: Combate HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32870
-#EXTINF:-1 tvg-id="" tvg-name="Br: Comedy Central HD" tvg-logo="http://www.vod-logo.net/photos/08794126a9d7a376ab10ea0202c09315.jpg" group-title="Brazil",Br: Comedy Central HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32871
-#EXTINF:-1 tvg-id="" tvg-name="Br: Curta! HD" tvg-logo="http://www.vod-logo.net/photos/b8604792892049ce0b211c1629cf725a.png" group-title="Brazil",Br: Curta! HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32873
-#EXTINF:-1 tvg-id="" tvg-name="Br: Discovery Channel HD" tvg-logo="http://www.vod-logo.net/photos/1893a037baccadce6d502c6d1dc1f49d.png" group-title="Brazil",Br: Discovery Channel HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32874
-#EXTINF:-1 tvg-id="" tvg-name="Br: HGTV HD" tvg-logo="http://www.vod-logo.net/photos/e9ff8edf9184888a59147e305b85c693.jpg" group-title="Brazil",Br: HGTV HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32875
-#EXTINF:-1 tvg-id="" tvg-name="Br: Discovery Home & Health HD" tvg-logo="http://www.vod-logo.net/photos/f2ac1ac49012467c85ebccf4028c0c16.png" group-title="Brazil",Br: Discovery Home & Health HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32876
-#EXTINF:-1 tvg-id="" tvg-name="Br: Discovery Kids HD" tvg-logo="http://www.vod-logo.net/photos/c40c90b70cb4b37748d0405639401686.jpg" group-title="Brazil",Br: Discovery Kids HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32877
-#EXTINF:-1 tvg-id="" tvg-name="Br: Discovery Science HD" tvg-logo="http://www.vod-logo.net/photos/c5f6506ed966bf3ed685f10928546cd4.jpg" group-title="Brazil",Br: Discovery Science HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32878
-#EXTINF:-1 tvg-id="" tvg-name="Br: Discovery Theater HD" tvg-logo="http://www.vod-logo.net/photos/7217e943a024dc90f96f3df60aa56ff5.png" group-title="Brazil",Br: Discovery Theater HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32879
-#EXTINF:-1 tvg-id="" tvg-name="Br: Discovery Turbo HD" tvg-logo="http://www.vod-logo.net/photos/823ca54d3ed124658b79a17280c3aadb.jpg" group-title="Brazil",Br: Discovery Turbo HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32881
-#EXTINF:-1 tvg-id="" tvg-name="Br: Discovery World HD" tvg-logo="http://www.vod-logo.net/photos/db2513bd0f4eacef1590b3cf6e5deba0.jpg" group-title="Brazil",Br: Discovery World HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32882
-#EXTINF:-1 tvg-id="" tvg-name="Br: Disney Channel HD" tvg-logo="http://www.vod-logo.net/photos/c9c6afef702accfdae08d7239bd8d080.JPG" group-title="Brazil",Br: Disney Channel HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32883
-#EXTINF:-1 tvg-id="" tvg-name="Br: Disney Junior HD" tvg-logo="http://www.vod-logo.net/photos/78b71901317e11997e75321e99ea8f0f.jpg" group-title="Brazil",Br: Disney Junior HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32884
-#EXTINF:-1 tvg-id="" tvg-name="Br: Disney XD HD" tvg-logo="http://www.vod-logo.net/photos/00d4c3a6715b7d4d598fe48b4856510c.jpg" group-title="Brazil",Br: Disney XD HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32885
-#EXTINF:-1 tvg-id="" tvg-name="Br: E! Entertainment HD" tvg-logo="http://www.vod-logo.net/photos/6aa7dc9c2e3aac3fafd36027cd8a8046.jpg" group-title="Brazil",Br: E! Entertainment HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32886
-#EXTINF:-1 tvg-id="" tvg-name="Br: ESPN 2 HD" tvg-logo="http://www.vod-logo.net/photos/ad9cf2ecbe0b5f59b572dd201663f387.jpg" group-title="Brazil",Br: ESPN 2 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33271
-#EXTINF:-1 tvg-id="" tvg-name="Br: ESPN Brasil HD" tvg-logo="http://www.vod-logo.net/photos/40623663c189d87debd7429e2557bc14.png" group-title="Brazil",Br: ESPN Brasil HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33272
-#EXTINF:-1 tvg-id="" tvg-name="Br: ESPN HD" tvg-logo="http://www.vod-logo.net/photos/c1151548a71a96178cd054ffb55be9c2.png" group-title="Brazil",Br: ESPN HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33280
-#EXTINF:-1 tvg-id="" tvg-name="Br: Fish TV HD" tvg-logo="http://www.vod-logo.net/photos/4ae4ed75c5658c528095d346d44f58ea.png" group-title="Brazil",Br: Fish TV HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32891
-#EXTINF:-1 tvg-id="" tvg-name="Br: Food Network HD" tvg-logo="http://www.vod-logo.net/photos/037d9cff19cf69d6cbd8ab85f45c5825.jpg" group-title="Brazil",Br: Food Network HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32892
-#EXTINF:-1 tvg-id="" tvg-name="Br: Fox HD" tvg-logo="http://www.vod-logo.net/photos/89fed4025d8fea3cf9fddbba3dece3fc.jpg" group-title="Brazil",Br: Fox HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32893
-#EXTINF:-1 tvg-id="" tvg-name="Br: Fox Premium 1 HD" tvg-logo="http://www.vod-logo.net/photos/3b19f3239f7aee8c2f52a3ce63b1e42c.png" group-title="Brazil",Br: Fox Premium 1 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32895
-#EXTINF:-1 tvg-id="" tvg-name="Br: Fox Premium 2 HD" tvg-logo="http://www.vod-logo.net/photos/26d1bd1ca50805dec8f7a4093841aa8f.png" group-title="Brazil",Br: Fox Premium 2 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32896
-#EXTINF:-1 tvg-id="" tvg-name="Br: Fox Sports 2 HD" tvg-logo="http://www.vod-logo.net/photos/cad2d522dd0ac09b816994b225c20e03.png" group-title="Brazil",Br: Fox Sports 2 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33276
-#EXTINF:-1 tvg-id="" tvg-name="Br: Fox Sports HD" tvg-logo="http://www.vod-logo.net/photos/24d118831f1204302c051a7dbbdff509.jpg" group-title="Brazil",Br: Fox Sports HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33277
-#EXTINF:-1 tvg-id="" tvg-name="Br: Futura HD" tvg-logo="http://www.vod-logo.net/photos/804ac7067bc21aca533af593692a0300.png" group-title="Brazil",Br: Futura HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32900
-#EXTINF:-1 tvg-id="" tvg-name="Br: FX HD" tvg-logo="http://www.vod-logo.net/photos/b77b8a15095db74df8e61e0d73895ecb.jpg" group-title="Brazil",Br: FX HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32901
-#EXTINF:-1 tvg-id="" tvg-name="Br: Globo Anhanguera Goiania" tvg-logo="http://www.vod-logo.net/photos/48c35ac1bb8ce4790e4802f5c4b459da.png" group-title="Brazil",Br: Globo Anhanguera Goiania
-http://new-pro.tv:8080/Hotel-2021/Allroom/32902
-#EXTINF:-1 tvg-id="" tvg-name="Br: Globo Brasilia" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="Brazil",Br: Globo Brasilia
-http://new-pro.tv:8080/Hotel-2021/Allroom/32903
-#EXTINF:-1 tvg-id="" tvg-name="Br: Globo EPTV Campinas HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="Brazil",Br: Globo EPTV Campinas HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32905
-#EXTINF:-1 tvg-id="" tvg-name="Br- Globo EPTV Sao Carlos SD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="Brazil",Br- Globo EPTV Sao Carlos SD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32906
-#EXTINF:-1 tvg-id="" tvg-name="Br- Globo Minas HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="Brazil",Br- Globo Minas HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32908
-#EXTINF:-1 tvg-id="" tvg-name="Br- Globo News HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="Brazil",Br- Globo News HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32909
-#EXTINF:-1 tvg-id="" tvg-name="Br- Globo Nordeste HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="Brazil",Br- Globo Nordeste HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32911
-#EXTINF:-1 tvg-id="" tvg-name="Br- Globo Ribeirao Preto" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="Brazil",Br- Globo Ribeirao Preto
-http://new-pro.tv:8080/Hotel-2021/Allroom/32914
-#EXTINF:-1 tvg-id="" tvg-name="Br- Globo RJ HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="Brazil",Br- Globo RJ HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32915
-#EXTINF:-1 tvg-id="" tvg-name="Br- Globo RPC TV SD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="Brazil",Br- Globo RPC TV SD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32916
-#EXTINF:-1 tvg-id="" tvg-name="Br- Globo Sergipe" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="Brazil",Br- Globo Sergipe
-http://new-pro.tv:8080/Hotel-2021/Allroom/32917
-#EXTINF:-1 tvg-id="" tvg-name="Br- Globo SP HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="Brazil",Br- Globo SP HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32918
-#EXTINF:-1 tvg-id="" tvg-name="Br- Globo TV Tem Sorocaba" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="Brazil",Br- Globo TV Tem Sorocaba
-http://new-pro.tv:8080/Hotel-2021/Allroom/32922
-#EXTINF:-1 tvg-id="" tvg-name="Br- Globo TV Tribuna Santos" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="Brazil",Br- Globo TV Tribuna Santos
-http://new-pro.tv:8080/Hotel-2021/Allroom/32923
-#EXTINF:-1 tvg-id="" tvg-name="Br- Globo TV Verdes Mares Fortaleza" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="Brazil",Br- Globo TV Verdes Mares Fortaleza
-http://new-pro.tv:8080/Hotel-2021/Allroom/32925
-#EXTINF:-1 tvg-id="" tvg-name="Br- Gloob HD" tvg-logo="http://www.vod-logo.net/photos/cde43efdcda8e00099da2230aca022c8.png" group-title="Brazil",Br- Gloob HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32927
-#EXTINF:-1 tvg-id="" tvg-name="Br- GNT HD" tvg-logo="http://www.vod-logo.net/photos/0de01f176c3c2d05485a5820e38929b6.png" group-title="Brazil",Br- GNT HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32928
-#EXTINF:-1 tvg-id="" tvg-name="Br: H2 HD" tvg-logo="http://www.vod-logo.net/photos/68ef5ef4bf905d4b21a0f43977542648.JPG" group-title="Brazil",Br: H2 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32929
-#EXTINF:-1 tvg-id="" tvg-name="Br: Mega Pix HD" tvg-logo="http://www.vod-logo.net/photos/50b0960ee5679b3b3482bd869e398119.png" group-title="Brazil",Br: Mega Pix HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32942
-#EXTINF:-1 tvg-id="" tvg-name="Br: MTV HD" tvg-logo="http://www.vod-logo.net/photos/2e84096e3232283a1d3b5c894635d8c0.jpg" group-title="Brazil",Br: MTV HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32943
-#EXTINF:-1 tvg-id="" tvg-name="Br: Multishow HD" tvg-logo="http://www.vod-logo.net/photos/0d111223bab477e6bd13a07bce973867.png" group-title="Brazil",Br: Multishow HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32945
-#EXTINF:-1 tvg-id="" tvg-name="Br: Music Box Brazil" tvg-logo="http://www.vod-logo.net/photos/3e9960a9e1f533dc0ec6e42754bfbe53.png" group-title="Brazil",Br: Music Box Brazil
-http://new-pro.tv:8080/Hotel-2021/Allroom/32946
-#EXTINF:-1 tvg-id="" tvg-name="Br: Nat Geo Kids HD" tvg-logo="http://www.vod-logo.net/photos/e2032b3ac4cca05ced931801f031f98b.jpg" group-title="Brazil",Br: Nat Geo Kids HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32947
-#EXTINF:-1 tvg-id="" tvg-name="Br: Nat Geo Wild HD" tvg-logo="http://www.vod-logo.net/photos/52e3fd3c4a2c3b34ed106848a1a615bd.JPG" group-title="Brazil",Br: Nat Geo Wild HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32948
-#EXTINF:-1 tvg-id="" tvg-name="Br: National Geographic HD" tvg-logo="http://www.vod-logo.net/photos/286bcee8579c2ac48c056e811c051524.jpg" group-title="Brazil",Br: National Geographic HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32949
-#EXTINF:-1 tvg-id="" tvg-name="Br: Nick Jr. HD" tvg-logo="http://www.vod-logo.net/photos/0c8d11f5c69d372a2fdf215d46607382.jpg" group-title="Brazil",Br: Nick Jr. HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32950
-#EXTINF:-1 tvg-id="" tvg-name="Br: Nickelodeon HD" tvg-logo="http://www.vod-logo.net/photos/9fc794edf45f82c0efcc0f794f62b1e9.jpg" group-title="Brazil",Br: Nickelodeon HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32951
-#EXTINF:-1 tvg-id="" tvg-name="Br: Novo Tempo" tvg-logo="http://www.vod-logo.net/photos/0ccbf903ba3672834c0b06ba0d5845b8.png" group-title="Brazil",Br: Novo Tempo
-http://new-pro.tv:8080/Hotel-2021/Allroom/32952
-#EXTINF:-1 tvg-id="" tvg-name="Br: Off HD" tvg-logo="http://www.vod-logo.net/photos/95370ddb8e45f9696e6833809043da94.png" group-title="Brazil",Br: Off HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32953
-#EXTINF:-1 tvg-id="" tvg-name="Br: Paramount Network HD" tvg-logo="http://www.vod-logo.net/photos/64131aa7035614b42b17d96e4a4f6ef4.jpg" group-title="Brazil",Br: Paramount Network HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32954
-#EXTINF:-1 tvg-id="" tvg-name="Br- Record Campinas HD" tvg-logo="http://www.vod-logo.net/photos/9d6bb05781e73188a88fb29d6c582ae2.png" group-title="Brazil",Br- Record Campinas HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32965
-#EXTINF:-1 tvg-id="" tvg-name="Br- Record News HD" tvg-logo="http://www.vod-logo.net/photos/b6fa16667de40fb49bf34c668830bc36.jpg" group-title="Brazil",Br- Record News HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32969
-#EXTINF:-1 tvg-id="" tvg-name="Br- Record Nordeste HD" tvg-logo="http://www.vod-logo.net/photos/9d6bb05781e73188a88fb29d6c582ae2.png" group-title="Brazil",Br- Record Nordeste HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32970
-#EXTINF:-1 tvg-id="" tvg-name="Br- Record RJ" tvg-logo="http://www.vod-logo.net/photos/9d6bb05781e73188a88fb29d6c582ae2.png" group-title="Brazil",Br- Record RJ
-http://new-pro.tv:8080/Hotel-2021/Allroom/32971
-#EXTINF:-1 tvg-id="" tvg-name="Br- Record SP HD" tvg-logo="http://www.vod-logo.net/photos/9d6bb05781e73188a88fb29d6c582ae2.png" group-title="Brazil",Br- Record SP HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32972
-#EXTINF:-1 tvg-id="" tvg-name="Br- Rede TV HD" tvg-logo="http://www.vod-logo.net/photos/e2e3552fd5e46d0baa79ee6efdaa864e.png" group-title="Brazil",Br- Rede TV HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32974
-#EXTINF:-1 tvg-id="" tvg-name="Br- Rede Vida HD" tvg-logo="http://www.vod-logo.net/photos/1469ea51fe637967d0e56d2dfe8838bb.png" group-title="Brazil",Br- Rede Vida HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32975
-#EXTINF:-1 tvg-id="" tvg-name="Br: Sony HD" tvg-logo="http://www.vod-logo.net/photos/d0851cea612d28d826de33db62bc7b9d.png" group-title="Brazil",Br: Sony HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32979
-#EXTINF:-1 tvg-id="" tvg-name="Br: Space HD" tvg-logo="http://www.vod-logo.net/photos/88873418020ce76995a8164c17841f74.png" group-title="Brazil",Br: Space HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32980
-#EXTINF:-1 tvg-id="Sport TV 2 HD" tvg-name="Br: SporTV 2 HD" tvg-logo="http://www.vod-logo.net/photos/a55e09f0b5d8a66bd9520354f28cd892.png" group-title="Brazil",Br: SporTV 2 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33324
-#EXTINF:-1 tvg-id="Sport TV 3 HD" tvg-name="Br: SporTV 3 HD" tvg-logo="" group-title="Brazil",Br: SporTV 3 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33326
-#EXTINF:-1 tvg-id="Sport TV HD" tvg-name="Br: SporTV HD" tvg-logo="http://www.vod-logo.net/photos/cfb7f5de43b3a7f57010111ee0461d88.png" group-title="Brazil",Br: SporTV HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33328
-#EXTINF:-1 tvg-id="" tvg-name="Br: Studio Universal HD" tvg-logo="http://www.vod-logo.net/photos/4b16934e7fb61fbe17e9b0f3f76b95ef.png" group-title="Brazil",Br: Studio Universal HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32984
-#EXTINF:-1 tvg-id="" tvg-name="Br: SyFy HD" tvg-logo="http://www.vod-logo.net/photos/458ea1b04f052078408f348448d87d0e.jpg" group-title="Brazil",Br: SyFy HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32985
-#EXTINF:-1 tvg-id="" tvg-name="Br: TBS" tvg-logo="http://www.vod-logo.net/photos/d99ec076329eccd8ffbb94895090a2b7.jpg" group-title="Brazil",Br: TBS
-http://new-pro.tv:8080/Hotel-2021/Allroom/32986
-#EXTINF:-1 tvg-id="" tvg-name="Br: Telecine Action HD" tvg-logo="http://www.vod-logo.net/photos/e96a6d57d88a08931819eb943cf3b591.png" group-title="Brazil",Br: Telecine Action HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32987
-#EXTINF:-1 tvg-id="" tvg-name="Br: Telecine Cult HD" tvg-logo="http://www.vod-logo.net/photos/01d40d2cdda42f723788201bb1c8d434.png" group-title="Brazil",Br: Telecine Cult HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32988
-#EXTINF:-1 tvg-id="" tvg-name="Br: TNT HD" tvg-logo="http://www.vod-logo.net/photos/01f3869164d8b1299b002affe7463018.jpg" group-title="Brazil",Br: TNT HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32993
-#EXTINF:-1 tvg-id="" tvg-name="Br: TNT Series HD" tvg-logo="http://www.vod-logo.net/photos/7ff239a2180a34471241aa67820c1020.jpg" group-title="Brazil",Br: TNT Series HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32994
-#EXTINF:-1 tvg-id="" tvg-name="Br: Tooncast HD" tvg-logo="http://www.vod-logo.net/photos/7eb5642cfb9e5ab1f8280a254a1d8a2e.png" group-title="Brazil",Br: Tooncast HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32995
-#EXTINF:-1 tvg-id="" tvg-name="Br: TV Aparecida SD" tvg-logo="http://www.vod-logo.net/photos/e0d0abf3adacdb165d5edbe4c1bf6dac.png" group-title="Brazil",Br: TV Aparecida SD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32996
-#EXTINF:-1 tvg-id="" tvg-name="Br: TV Gazeta HD" tvg-logo="http://www.vod-logo.net/photos/de02a544e1406928608964558e5006ad.png" group-title="Brazil",Br: TV Gazeta HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32997
-#EXTINF:-1 tvg-id="" tvg-name="Br: Universal Channel HD" tvg-logo="http://www.vod-logo.net/photos/a1e1a4fa3d12c6e582f6e0d6286397fc.jpg" group-title="Brazil",Br: Universal Channel HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32998
-#EXTINF:-1 tvg-id="" tvg-name="Br: VH1 HD" tvg-logo="http://www.vod-logo.net/photos/13365320cfda0433b833a534397ae204.png" group-title="Brazil",Br: VH1 HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/32999
-#EXTINF:-1 tvg-id="" tvg-name="Br: VH1 MegaHits" tvg-logo="http://www.vod-logo.net/photos/f4dc90e2e5950a99c8fb0b35f6da74ae.png" group-title="Brazil",Br: VH1 MegaHits
-http://new-pro.tv:8080/Hotel-2021/Allroom/33000
-#EXTINF:-1 tvg-id="" tvg-name="Br: Viva HD" tvg-logo="http://www.vod-logo.net/photos/1e290370a477858119798c8b6293ccfa.png" group-title="Brazil",Br: Viva HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33001
-#EXTINF:-1 tvg-id="" tvg-name="Br: Warner Channel HD" tvg-logo="http://www.vod-logo.net/photos/b1dd77d17daf164fa53bc40713b66291.png" group-title="Brazil",Br: Warner Channel HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33002
-#EXTINF:-1 tvg-id="" tvg-name="Br: Woohoo HD" tvg-logo="http://www.vod-logo.net/photos/979c75c759c6951fd52ac44877498c88.png" group-title="Brazil",Br: Woohoo HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33003
-#EXTINF:-1 tvg-id="" tvg-name="Br: Zoomoo HD" tvg-logo="http://www.vod-logo.net/photos/387b06de40950940618d88d43e809314.png" group-title="Brazil",Br: Zoomoo HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33004
-#EXTINF:-1 tvg-id="" tvg-name="Br- Globo RPC Curitiba HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="Brazil",Br- Globo RPC Curitiba HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33007
-#EXTINF:-1 tvg-id="" tvg-name="Br: SBT Brasilia HD" tvg-logo="http://www.vod-logo.net/photos/4ddb5a7932232241bf80757563e3d391.png" group-title="Brazil",Br: SBT Brasilia HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33008
-#EXTINF:-1 tvg-id="" tvg-name="Br: SBT SP" tvg-logo="" group-title="Brazil",Br: SBT SP
-http://new-pro.tv:8080/Hotel-2021/Allroom/33009
-#EXTINF:-1 tvg-id="" tvg-name="Br- Globo INTER TV Cabugi RN SD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="Brazil",Br- Globo INTER TV Cabugi RN SD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33010
-#EXTINF:-1 tvg-id="" tvg-name="Br: SBT RJ HD" tvg-logo="http://www.vod-logo.net/photos/4ddb5a7932232241bf80757563e3d391.png" group-title="Brazil",Br: SBT RJ HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33011
-#EXTINF:-1 tvg-id="" tvg-name="Br: History HD" tvg-logo="http://www.vod-logo.net/photos/37a940e94c8bdeff3bd830d83fb969d5.jpg" group-title="Brazil",Br: History HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/33023
-#EXTINF:-1 tvg-id="" tvg-name="Br: Baby TV" tvg-logo="" group-title="Brazil",Br: Baby TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/122245
-#EXTINF:-1 tvg-id="" tvg-name="Br: BAND" tvg-logo="" group-title="Brazil",Br: BAND
-http://new-pro.tv:8080/Hotel-2021/Allroom/122246
-#EXTINF:-1 tvg-id="" tvg-name="Br: Canal Sony" tvg-logo="" group-title="Brazil",Br: Canal Sony
-http://new-pro.tv:8080/Hotel-2021/Allroom/122249
-#EXTINF:-1 tvg-id="" tvg-name="Br- EI PLUS" tvg-logo="" group-title="Brazil",Br- EI PLUS
-http://new-pro.tv:8080/Hotel-2021/Allroom/122286
-#EXTINF:-1 tvg-id="" tvg-name="Br: GLOBO VERDES MARES" tvg-logo="" group-title="Brazil",Br: GLOBO VERDES MARES
-http://new-pro.tv:8080/Hotel-2021/Allroom/122323
-#EXTINF:-1 tvg-id="" tvg-name="Br- RPC TV CURITIBA" tvg-logo="" group-title="Brazil",Br- RPC TV CURITIBA
-http://new-pro.tv:8080/Hotel-2021/Allroom/122298
-#EXTINF:-1 tvg-id="" tvg-name="Br: TCM" tvg-logo="" group-title="Brazil",Br: TCM
-http://new-pro.tv:8080/Hotel-2021/Allroom/122299
-#EXTINF:-1 tvg-id="" tvg-name="Br: TV BRASIL" tvg-logo="" group-title="Brazil",Br: TV BRASIL
-http://new-pro.tv:8080/Hotel-2021/Allroom/122317
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-lVhL_wrYvjE/WKZ9_f7WbKI/AAAAAAAADYI/SW6V4YDaWYM4jh34HlDTMsAND0p3YoBrgCLcB/s1600/%2521Lista%2BAtualizada.png" group-title="!ATUALIZADO: 10/09/2021", ATUALIZADO: Em : 10/09/2021
+https://
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="CANAIS TELECINE",TELECINE ACTION SD
+http://vipeiptv.com:25461/taylor/taylor/855992
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="CANAIS TELECINE",TELECINE ACTION HD
+http://vipeiptv.com:25461/taylor/taylor/855994
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="CANAIS TELECINE",TELECINE ACTION FHD
+http://vipeiptv.com:25461/taylor/taylor/855996
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="CANAIS TELECINE",TELECINE CULT SD
+http://vipeiptv.com:25461/taylor/taylor/855998
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="CANAIS TELECINE",TELECINE CULT HD
+http://vipeiptv.com:25461/taylor/taylor/856000
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="CANAIS TELECINE",TELECINE CULT FHD
+http://vipeiptv.com:25461/taylor/taylor/856002
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="CANAIS TELECINE",TELECINE FUN SD
+http://vipeiptv.com:25461/taylor/taylor/856004
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="CANAIS TELECINE",TELECINE FUN HD
+http://vipeiptv.com:25461/taylor/taylor/856006
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="CANAIS TELECINE",TELECINE FUN FHD
+http://vipeiptv.com:25461/taylor/taylor/856008
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="CANAIS TELECINE",TELECINE PIPOCA SD
+http://vipeiptv.com:25461/taylor/taylor/856010
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="CANAIS TELECINE",TELECINE PIPOCA HD
+http://vipeiptv.com:25461/taylor/taylor/856012
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="CANAIS TELECINE",TELECINE PIPOCA FHD
+http://vipeiptv.com:25461/taylor/taylor/856014
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="CANAIS TELECINE",TELECINE PREMIUM SD
+http://vipeiptv.com:25461/taylor/taylor/856016
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="CANAIS TELECINE",TELECINE PREMIUM HD
+http://vipeiptv.com:25461/taylor/taylor/856018
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="CANAIS TELECINE",TELECINE PREMIUM FHD
+http://vipeiptv.com:25461/taylor/taylor/856020
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="CANAIS TELECINE",TELECINE TOUCH SD
+http://vipeiptv.com:25461/taylor/taylor/856022
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="CANAIS TELECINE",TELECINE TOUCH HD
+http://vipeiptv.com:25461/taylor/taylor/856024
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="CANAIS TELECINE",TELECINE TOUCH FHD
+http://vipeiptv.com:25461/taylor/taylor/856026
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL SD
+http://vipeiptv.com:25461/taylor/taylor/856038
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL HD
+http://vipeiptv.com:25461/taylor/taylor/856040
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL FHD
+http://vipeiptv.com:25461/taylor/taylor/856042
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryscience.png" group-title="CANAIS DISCOVERY",DISCOVERY SCIENCE HD
+http://vipeiptv.com:25461/taylor/taylor/856045
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryscience.png" group-title="CANAIS DISCOVERY",DISCOVERY SCIENCE FHD
+http://vipeiptv.com:25461/taylor/taylor/856047
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATHER SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverytheater.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATHER SD
+http://vipeiptv.com:25461/taylor/taylor/856049
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATHER HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverytheater.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATHER HD
+http://vipeiptv.com:25461/taylor/taylor/856051
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATHER FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverytheater.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATHER FHD
+http://vipeiptv.com:25461/taylor/taylor/856053
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryTurbo1.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO SD
+http://vipeiptv.com:25461/taylor/taylor/856055
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryTurbo1.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO HD
+http://vipeiptv.com:25461/taylor/taylor/856057
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryTurbo1.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO FHD
+http://vipeiptv.com:25461/taylor/taylor/856059
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryWorld1.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD HD
+http://vipeiptv.com:25461/taylor/taylor/856062
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryWorld1.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD FHD
+http://vipeiptv.com:25461/taylor/taylor/856064
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/id.png" group-title="CANAIS DISCOVERY",ID - INVESTIGAÇÃO DISCOVERY SD
+http://vipeiptv.com:25461/taylor/taylor/856066
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/id.png" group-title="CANAIS DISCOVERY",ID - INVESTIGAÇÃO DISCOVERY HD
+http://vipeiptv.com:25461/taylor/taylor/856068
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="CANAIS FILMES",A&E SD
+http://vipeiptv.com:25461/taylor/taylor/856077
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="CANAIS FILMES",A&E HD
+http://vipeiptv.com:25461/taylor/taylor/856078
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="CANAIS FILMES",A&E FHD
+http://vipeiptv.com:25461/taylor/taylor/856079
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="CANAIS FILMES",AMC SD
+http://vipeiptv.com:25461/taylor/taylor/856080
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="CANAIS FILMES",AMC HD
+http://vipeiptv.com:25461/taylor/taylor/856081
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="CANAIS FILMES",AMC FHD
+http://vipeiptv.com:25461/taylor/taylor/856082
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="CANAIS FILMES",AXN SD
+http://vipeiptv.com:25461/taylor/taylor/856083
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="CANAIS FILMES",AXN HD
+http://vipeiptv.com:25461/taylor/taylor/856085
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="CANAIS FILMES",AXN FHD
+http://vipeiptv.com:25461/taylor/taylor/856087
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/arte1.png" group-title="CANAIS FILMES",ARTE 1 HD
+http://vipeiptv.com:25461/taylor/taylor/856090
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cinemax.png" group-title="CANAIS FILMES",CINEMAX HD
+http://vipeiptv.com:25461/taylor/taylor/856094
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cinemax.png" group-title="CANAIS FILMES",CINEMAX FHD
+http://vipeiptv.com:25461/taylor/taylor/856096
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/fox.png" group-title="CANAIS FILMES",FOX HD
+http://vipeiptv.com:25461/taylor/taylor/856100
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium1b.png" group-title="CANAIS FILMES",FOX PREMIUM 1 HD
+http://vipeiptv.com:25461/taylor/taylor/856104
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium1b.png" group-title="CANAIS FILMES",FOX PREMIUM 1 FHD
+http://vipeiptv.com:25461/taylor/taylor/856106
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium2b.png" group-title="CANAIS FILMES",FOX PREMIUM 2 HD
+http://vipeiptv.com:25461/taylor/taylor/856109
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium2b.png" group-title="CANAIS FILMES",FOX PREMIUM 2 FHD
+http://vipeiptv.com:25461/taylor/taylor/856111
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="CANAIS FILMES",FX SD
+http://vipeiptv.com:25461/taylor/taylor/856113
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="CANAIS FILMES",FX HD
+http://vipeiptv.com:25461/taylor/taylor/856115
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="CANAIS FILMES",FX FHD
+http://vipeiptv.com:25461/taylor/taylor/856117
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="CANAIS FILMES",MEGAPIX SD
+http://vipeiptv.com:25461/taylor/taylor/856119
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="CANAIS FILMES",MEGAPIX HD
+http://vipeiptv.com:25461/taylor/taylor/856121
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="CANAIS FILMES",MEGAPIX FHD
+http://vipeiptv.com:25461/taylor/taylor/856123
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/paramount.png" group-title="CANAIS FILMES",PARAMOUNT
+http://vipeiptv.com:25461/taylor/taylor/856125
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/paramount.png" group-title="CANAIS FILMES",PARAMOUNT HD
+http://vipeiptv.com:25461/taylor/taylor/856127
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/space.png" group-title="CANAIS FILMES",SPACE SD
+http://vipeiptv.com:25461/taylor/taylor/856133
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/space.png" group-title="CANAIS FILMES",SPACE HD
+http://vipeiptv.com:25461/taylor/taylor/856135
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/space.png" group-title="CANAIS FILMES",SPACE FHD
+http://vipeiptv.com:25461/taylor/taylor/856137
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-57-canal-studio-universal.png" group-title="CANAIS FILMES",STUDIO UNIVERSAL HD
+http://vipeiptv.com:25461/taylor/taylor/856140
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/syfy.png" group-title="CANAIS FILMES",SYFY SD
+http://vipeiptv.com:25461/taylor/taylor/856146
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/syfy.png" group-title="CANAIS FILMES",SYFY HD
+http://vipeiptv.com:25461/taylor/taylor/856148
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tcm.png" group-title="CANAIS FILMES",TCM SD
+http://vipeiptv.com:25461/taylor/taylor/856154
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="CANAIS FILMES",TNT SD
+http://vipeiptv.com:25461/taylor/taylor/856161
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="CANAIS FILMES",TNT HD
+http://vipeiptv.com:25461/taylor/taylor/856163
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="CANAIS FILMES",TNT FHD
+http://vipeiptv.com:25461/taylor/taylor/856165
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SÉRIES SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tntseries.png" group-title="CANAIS FILMES",TNT SÉRIES SD
+http://vipeiptv.com:25461/taylor/taylor/856167
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SÉRIES HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tntseries.png" group-title="CANAIS FILMES",TNT SÉRIES HD
+http://vipeiptv.com:25461/taylor/taylor/856169
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/studio+universal.jpg" group-title="CANAIS FILMES",UNIVERSAL TV SD
+http://vipeiptv.com:25461/taylor/taylor/856172
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/studio+universal.jpg" group-title="CANAIS FILMES",UNIVERSAL TV HD
+http://vipeiptv.com:25461/taylor/taylor/856174
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/warner.png" group-title="CANAIS FILMES",WARNER CHANNEL SD
+http://vipeiptv.com:25461/taylor/taylor/856177
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/warner.png" group-title="CANAIS FILMES",WARNER CHANNEL HD
+http://vipeiptv.com:25461/taylor/taylor/856179
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandsports.png" group-title="ESPORTE",BAND SPORTS SD
+http://vipeiptv.com:25461/taylor/taylor/856182
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandsports.png" group-title="ESPORTE",BAND SPORTS HD
+http://vipeiptv.com:25461/taylor/taylor/856184
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/combate.png" group-title="ESPORTE",COMBATE SD
+http://vipeiptv.com:25461/taylor/taylor/856187
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/combate.png" group-title="ESPORTE",COMBATE HD
+http://vipeiptv.com:25461/taylor/taylor/856189
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/combate.png" group-title="ESPORTE",COMBATE FHD
+http://vipeiptv.com:25461/taylor/taylor/856191
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv.png" group-title="ESPORTE",SPORTV SD
+http://vipeiptv.com:25461/taylor/taylor/856230
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv.png" group-title="ESPORTE",SPORTV HD
+http://vipeiptv.com:25461/taylor/taylor/856232
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv.png" group-title="ESPORTE",SPORTV FHD
+http://vipeiptv.com:25461/taylor/taylor/856234
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv2.png" group-title="ESPORTE",SPORTV 2 SD
+http://vipeiptv.com:25461/taylor/taylor/856236
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv2.png" group-title="ESPORTE",SPORTV 2 HD
+http://vipeiptv.com:25461/taylor/taylor/856238
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv2.png" group-title="ESPORTE",SPORTV 2 FHD
+http://vipeiptv.com:25461/taylor/taylor/856240
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv3.png" group-title="ESPORTE",SPORTV 3 SD
+http://vipeiptv.com:25461/taylor/taylor/856242
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 3 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv3.png" group-title="ESPORTE",SPORTV 3 HD
+http://vipeiptv.com:25461/taylor/taylor/856244
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES SD
+http://vipeiptv.com:25461/taylor/taylor/856247
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES HD
+http://vipeiptv.com:25461/taylor/taylor/856249
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES FHD
+http://vipeiptv.com:25461/taylor/taylor/856251
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 SD
+http://vipeiptv.com:25461/taylor/taylor/856253
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 HD
+http://vipeiptv.com:25461/taylor/taylor/856255
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 FHD
+http://vipeiptv.com:25461/taylor/taylor/856257
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 SD
+http://vipeiptv.com:25461/taylor/taylor/856259
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 HD
+http://vipeiptv.com:25461/taylor/taylor/856261
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 FHD
+http://vipeiptv.com:25461/taylor/taylor/856263
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 4 SD
+http://vipeiptv.com:25461/taylor/taylor/856265
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 4 HD
+http://vipeiptv.com:25461/taylor/taylor/856267
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 5 SD
+http://vipeiptv.com:25461/taylor/taylor/856270
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 5 HD
+http://vipeiptv.com:25461/taylor/taylor/856272
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 6 HD
+http://vipeiptv.com:25461/taylor/taylor/856276
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 7 HD
+http://vipeiptv.com:25461/taylor/taylor/856279
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="CANAIS DOCUMENTÁRIO",ANIMAL PLANET SD
+http://vipeiptv.com:25461/taylor/taylor/856283
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="CANAIS DOCUMENTÁRIO",ANIMAL PLANET HD
+http://vipeiptv.com:25461/taylor/taylor/856285
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="CANAIS DOCUMENTÁRIO",ANIMAL PLANET FHD
+http://vipeiptv.com:25461/taylor/taylor/856287
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1200px-HGTV_US_Logo_2015.svg.png" group-title="CANAIS DOCUMENTÁRIO",HGTV HD
+http://vipeiptv.com:25461/taylor/taylor/856290
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/history.png" group-title="CANAIS DOCUMENTÁRIO",HISTORY SD
+http://vipeiptv.com:25461/taylor/taylor/856293
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/history.png" group-title="CANAIS DOCUMENTÁRIO",HISTORY HD
+http://vipeiptv.com:25461/taylor/taylor/856295
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/h2.png" group-title="CANAIS DOCUMENTÁRIO",H2 SD
+http://vipeiptv.com:25461/taylor/taylor/856298
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/h2.png" group-title="CANAIS DOCUMENTÁRIO",H2 HD
+http://vipeiptv.com:25461/taylor/taylor/856300
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeo.png" group-title="CANAIS DOCUMENTÁRIO",NATIONAL GEOGRAPHIC SD
+http://vipeiptv.com:25461/taylor/taylor/856303
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeo.png" group-title="CANAIS DOCUMENTÁRIO",NATIONAL GEOGRAPHIC HD
+http://vipeiptv.com:25461/taylor/taylor/856305
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeowild.png" group-title="CANAIS DOCUMENTÁRIO",NATGEO WILD SD
+http://vipeiptv.com:25461/taylor/taylor/856308
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeowild.png" group-title="CANAIS DOCUMENTÁRIO",NATGEO WILD HD
+http://vipeiptv.com:25461/taylor/taylor/856310
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="CANAIS HBO",HBO SD
+http://vipeiptv.com:25461/taylor/taylor/856313
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="CANAIS HBO",HBO HD
+http://vipeiptv.com:25461/taylor/taylor/856315
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="CANAIS HBO",HBO FHD
+http://vipeiptv.com:25461/taylor/taylor/856317
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="CANAIS HBO",HBO 2 SD
+http://vipeiptv.com:25461/taylor/taylor/856319
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="CANAIS HBO",HBO 2 HD
+http://vipeiptv.com:25461/taylor/taylor/856321
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="CANAIS HBO",HBO 2 FHD
+http://vipeiptv.com:25461/taylor/taylor/856323
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png" group-title="CANAIS HBO",HBO FAMILY SD
+http://vipeiptv.com:25461/taylor/taylor/856325
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png" group-title="CANAIS HBO",HBO FAMILY HD
+http://vipeiptv.com:25461/taylor/taylor/856327
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png" group-title="CANAIS HBO",HBO FAMILY FHD
+http://vipeiptv.com:25461/taylor/taylor/856329
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOMundi.png" group-title="CANAIS HBO",HBO MUNDI HD
+http://vipeiptv.com:25461/taylor/taylor/856332
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO MUNDI FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOMundi.png" group-title="CANAIS HBO",HBO MUNDI FHD
+http://vipeiptv.com:25461/taylor/taylor/856334
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/HBOPOP.png" group-title="CANAIS HBO",HBO POP SD
+http://vipeiptv.com:25461/taylor/taylor/856339
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/HBOPOP.png" group-title="CANAIS HBO",HBO POP HD
+http://vipeiptv.com:25461/taylor/taylor/856341
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="CANAIS HBO",HBO SIGNATURE HD
+http://vipeiptv.com:25461/taylor/taylor/856345
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="CANAIS HBO",HBO SIGNATURE FHD
+http://vipeiptv.com:25461/taylor/taylor/856347
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png" group-title="CANAIS HBO",HBO XTREME SD
+http://vipeiptv.com:25461/taylor/taylor/856349
+#EXTINF:-1 tvg-id="HBO XTREME HD" tvg-name="HBO XTREME HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png" group-title="CANAIS HBO",HBO XTREME HD
+http://vipeiptv.com:25461/taylor/taylor/856351
+#EXTINF:-1 tvg-id="HBO XTREME HD" tvg-name="HBO XTREME FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png" group-title="CANAIS HBO",HBO XTREME FHD
+http://vipeiptv.com:25461/taylor/taylor/856353
+#EXTINF:-1 tvg-id="HBO+ HD" tvg-name="HBO+ SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hboplus.png" group-title="CANAIS HBO",HBO+ SD
+http://vipeiptv.com:25461/taylor/taylor/856355
+#EXTINF:-1 tvg-id="HBO+ HD" tvg-name="HBO+ HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hboplus.png" group-title="CANAIS HBO",HBO+ HD
+http://vipeiptv.com:25461/taylor/taylor/856356
+#EXTINF:-1 tvg-id="HBO+ HD" tvg-name="HBO+ FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hboplus.png" group-title="CANAIS HBO",HBO+ FHD
+http://vipeiptv.com:25461/taylor/taylor/856357
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO AMAZÔNICA HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/rede_am.png" group-title="GLOBOS SAO PAULO ",GLOBO AMAZÔNICA HD
+http://vipeiptv.com:25461/taylor/taylor/856358
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO BAHIA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS BAHIA",GLOBO BAHIA SD
+http://vipeiptv.com:25461/taylor/taylor/856362
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO BAHIA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS BAHIA",GLOBO BAHIA HD
+http://vipeiptv.com:25461/taylor/taylor/856364
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASÍLIA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS BRASILIA",GLOBO BRASÍLIA SD
+http://vipeiptv.com:25461/taylor/taylor/856370
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASÍLIA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS BRASILIA",GLOBO BRASÍLIA HD
+http://vipeiptv.com:25461/taylor/taylor/856372
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO CUAIBÁ SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvcentroamerica.png" group-title="GLOBOS CUIABA",GLOBO CUAIBÁ SD
+http://vipeiptv.com:25461/taylor/taylor/856375
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO EPTV CAMPINAS SD
+http://vipeiptv.com:25461/taylor/taylor/856376
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO EPTV CAMPINAS HD
+http://vipeiptv.com:25461/taylor/taylor/856378
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO EPTV RIBEIRÃO PRETO SD
+http://vipeiptv.com:25461/taylor/taylor/856381
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV SÃO CARLOS" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO EPTV SÃO CARLOS
+http://vipeiptv.com:25461/taylor/taylor/856383
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO FORTALEZA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS CEARA",GLOBO FORTALEZA SD
+http://vipeiptv.com:25461/taylor/taylor/856384
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO FORTALEZA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS CEARA",GLOBO FORTALEZA HD
+http://vipeiptv.com:25461/taylor/taylor/856385
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO GOIÂNIA - TV ANHANGUERA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS GOIAIS",GLOBO GOIÂNIA - TV ANHANGUERA HD
+http://vipeiptv.com:25461/taylor/taylor/856386
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS RIO GRANDE DO NORTE",GLOBO INTER TV CABUGI HD
+http://vipeiptv.com:25461/taylor/taylor/856387
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS MINAS GERAIS",GLOBO MINAS SD
+http://vipeiptv.com:25461/taylor/taylor/856388
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS MINAS GERAIS",GLOBO MINAS HD
+http://vipeiptv.com:25461/taylor/taylor/856390
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS SD" tvg-logo="http://vipeiptv.com:25461/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="NOTICIAS",GLOBO NEWS SD
+http://vipeiptv.com:25461/taylor/taylor/856393
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS HD" tvg-logo="http://vipeiptv.com:25461/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="NOTICIAS",GLOBO NEWS HD
+http://vipeiptv.com:25461/taylor/taylor/856395
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS FHD" tvg-logo="http://vipeiptv.com:25461/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="NOTICIAS",GLOBO NEWS FHD
+http://vipeiptv.com:25461/taylor/taylor/856397
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS PERNAMBUCO",GLOBO NORDESTE HD
+http://vipeiptv.com:25461/taylor/taylor/856403
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NSC BLUMENAU HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SANTA CATARINA",GLOBO NSC BLUMENAU HD
+http://vipeiptv.com:25461/taylor/taylor/856406
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NSC JOINVILLE HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SANTA CATARINA",GLOBO NSC JOINVILLE HD
+http://vipeiptv.com:25461/taylor/taylor/856407
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NSC TV HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SANTA CATARINA",GLOBO NSC TV HD
+http://vipeiptv.com:25461/taylor/taylor/856408
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RBS TV FHD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS RIO GRANDE DO SUL",GLOBO RBS TV FHD
+http://vipeiptv.com:25461/taylor/taylor/856412
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RBS TV 4K" tvg-logo="http://vipeiptv.com:25461/images/58ee6d7920593d3b04d173d68717b778.png" group-title="GLOBOS RIO GRANDE DO SUL",GLOBO RBS TV 4K
+http://vipeiptv.com:25461/taylor/taylor/856413
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS RIO DE JANEIRO ",GLOBO RJ SD
+http://vipeiptv.com:25461/taylor/taylor/856417
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS RIO DE JANEIRO ",GLOBO RJ HD
+http://vipeiptv.com:25461/taylor/taylor/856419
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ FHD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS RIO DE JANEIRO ",GLOBO RJ FHD
+http://vipeiptv.com:25461/taylor/taylor/856421
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RPC CURITIBA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS CURITIBA",GLOBO RPC CURITIBA SD
+http://vipeiptv.com:25461/taylor/taylor/856423
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SDD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO SP SDD
+http://vipeiptv.com:25461/taylor/taylor/856426
+#EXTINF:-1 tvg-id="Globo HD SP" tvg-name="GLOBO SP HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO SP HD
+http://vipeiptv.com:25461/taylor/taylor/856428
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV MORENA SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS MATO GROSSO DO SUL",GLOBO TV MORENA SD
+http://vipeiptv.com:25461/taylor/taylor/856431
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV MORENA HD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS MATO GROSSO DO SUL",GLOBO TV MORENA HD
+http://vipeiptv.com:25461/taylor/taylor/856433
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="GLOBOS SAO PAULO ",GLOBO TV TEM BAURU HD
+http://vipeiptv.com:25461/taylor/taylor/856434
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV MORENA FHD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS MATO GROSSO DO SUL",GLOBO TV MORENA FHD
+http://vipeiptv.com:25461/taylor/taylor/856436
+#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV TEM SJRP" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="GLOBOS SAO PAULO ",GLOBO TV TEM SJRP
+http://vipeiptv.com:25461/taylor/taylor/856438
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="GLOBOS SAO PAULO ",GLOBO TV TEM SOROCABA HD
+http://vipeiptv.com:25461/taylor/taylor/856439
+#EXTINF:-1 tvg-id="Tvtribuna.br" tvg-name="GLOBO TV TRIBUNA" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS SAO PAULO ",GLOBO TV TRIBUNA
+http://vipeiptv.com:25461/taylor/taylor/856440
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO TV VANGUARDA SJC" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvvanguarda.png" group-title="GLOBOS SAO PAULO ",GLOBO TV VANGUARDA SJC
+http://vipeiptv.com:25461/taylor/taylor/856441
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO TV LIBERAL BELEM" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS PARA",GLOBO TV LIBERAL BELEM
+http://vipeiptv.com:25461/taylor/taylor/856456
+#EXTINF:-1 tvg-id="Band News HD" tvg-name="BAND NEWS SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandnews.png" group-title="NOTICIAS",BAND NEWS SD
+http://vipeiptv.com:25461/taylor/taylor/856483
+#EXTINF:-1 tvg-id="Band News HD" tvg-name="BAND NEWS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandnews.png" group-title="NOTICIAS",BAND NEWS HD
+http://vipeiptv.com:25461/taylor/taylor/856485
+#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL SD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-0.png" group-title="NOTICIAS",CNN BRASIL SD
+http://vipeiptv.com:25461/taylor/taylor/856488
+#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-0.png" group-title="NOTICIAS",CNN BRASIL HD
+http://vipeiptv.com:25461/taylor/taylor/856490
+#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-0.png" group-title="NOTICIAS",CNN BRASIL FHD
+http://vipeiptv.com:25461/taylor/taylor/856492
+#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="NOTICIAS",RECORD NEWS SD
+http://vipeiptv.com:25461/taylor/taylor/856503
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/band.png" group-title="CANAIS ABERTOS",BAND SD
+http://vipeiptv.com:25461/taylor/taylor/856507
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD" tvg-logo="http://revistapress.com.br/wp-content/uploads/2018/12/Band-Logo-1.png" group-title="CANAIS ABERTOS",BAND HD
+http://vipeiptv.com:25461/taylor/taylor/856509
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD SD
+http://vipeiptv.com:25461/taylor/taylor/856515
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BH HD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD BH HD
+http://vipeiptv.com:25461/taylor/taylor/856519
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD DF HD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD DF HD
+http://vipeiptv.com:25461/taylor/taylor/856521
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RS HD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD RS HD
+http://vipeiptv.com:25461/taylor/taylor/856522
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD SP HD
+http://vipeiptv.com:25461/taylor/taylor/856523
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="CANAIS ABERTOS",REDE VIDA
+http://vipeiptv.com:25461/taylor/taylor/856524
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV!" tvg-logo="http://imguol.com/blogs/31/files/2015/12/redetv1.png" group-title="CANAIS ABERTOS",REDETV!
+http://vipeiptv.com:25461/taylor/taylor/856525
+#EXTINF:-1 tvg-id="Rit.br" tvg-name="RIT" tvg-logo="http://www.portaldemidia.ufms.br/wp-content/uploads/2016/04/LOGO_RIT1.png" group-title="CANAIS ABERTOS",RIT
+http://vipeiptv.com:25461/taylor/taylor/856526
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS ABERTOS",SBT SD
+http://vipeiptv.com:25461/taylor/taylor/856527
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS ABERTOS",SBT HD
+http://vipeiptv.com:25461/taylor/taylor/856529
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BELEM" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD BELEM
+http://vipeiptv.com:25461/taylor/taylor/856533
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD MINAS SD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD MINAS SD
+http://vipeiptv.com:25461/taylor/taylor/856537
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RS SD" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD RS SD
+http://vipeiptv.com:25461/taylor/taylor/856541
+#EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CÂMARA" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="CANAIS ABERTOS",TV CÂMARA
+http://vipeiptv.com:25461/taylor/taylor/856554
+#EXTINF:-1 tvg-id="Tvespanha.br" tvg-name="TVE" tvg-logo="http://www.tve.com.br/wp-content/uploads/2014/11/logo-tve-png.png" group-title="CANAIS ABERTOS",TVE
+http://vipeiptv.com:25461/taylor/taylor/856555
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG" tvg-logo="http://logocanais.ddns.net/Logo/Boomerang1.png" group-title="CANAIS INFANTIL",BOOMERANG
+http://vipeiptv.com:25461/taylor/taylor/856580
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="http://logocanais.ddns.net/Logo/Boomerang1.png" group-title="CANAIS INFANTIL",BOOMERANG HD
+http://vipeiptv.com:25461/taylor/taylor/856582
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="CANAIS INFANTIL",CARTOON NETWORK SD
+http://vipeiptv.com:25461/taylor/taylor/856585
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="CANAIS INFANTIL",CARTOON NETWORK HD
+http://vipeiptv.com:25461/taylor/taylor/856587
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS SD
+http://vipeiptv.com:25461/taylor/taylor/856590
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS HD
+http://vipeiptv.com:25461/taylor/taylor/856592
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://w7.pngwing.com/pngs/211/947/png-transparent-disney-channel-the-walt-disney-company-logo-television-show-cannel-television-text-logo.png" group-title="CANAIS INFANTIL",DISNEY CHANNEL SD
+http://vipeiptv.com:25461/taylor/taylor/856595
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://w7.pngwing.com/pngs/211/947/png-transparent-disney-channel-the-walt-disney-company-logo-television-show-cannel-television-text-logo.png" group-title="CANAIS INFANTIL",DISNEY CHANNEL HD
+http://vipeiptv.com:25461/taylor/taylor/856597
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR SD" tvg-logo="https://2.bp.blogspot.com/-ucaQnWdXy2M/WnOj1PfA7mI/AAAAAAABD1g/RUVOBTXOHvUFTjeIss2aofvNP_xT6VpewCLcBGAs/s640/Logo%2BDisney_Junior.png" group-title="CANAIS INFANTIL",DISNEY JUNIOR SD
+http://vipeiptv.com:25461/taylor/taylor/856600
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD" tvg-logo="https://2.bp.blogspot.com/-ucaQnWdXy2M/WnOj1PfA7mI/AAAAAAABD1g/RUVOBTXOHvUFTjeIss2aofvNP_xT6VpewCLcBGAs/s640/Logo%2BDisney_Junior.png" group-title="CANAIS INFANTIL",DISNEY JUNIOR HD
+http://vipeiptv.com:25461/taylor/taylor/856602
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD" tvg-logo="https://www.logolynx.com/images/logolynx/s_a8/a8352d07ba7106c58d6485dcdc06c4df.png" group-title="CANAIS INFANTIL",DISNEY XD SD
+http://vipeiptv.com:25461/taylor/taylor/856605
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo-1.png" group-title="CANAIS INFANTIL",GLOOB SD
+http://vipeiptv.com:25461/taylor/taylor/856609
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo-1.png" group-title="CANAIS INFANTIL",GLOOB HD
+http://vipeiptv.com:25461/taylor/taylor/856611
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="CANAIS INFANTIL",NICK JR. SD
+http://vipeiptv.com:25461/taylor/taylor/856620
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR. HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="CANAIS INFANTIL",NICK JR. HD
+http://vipeiptv.com:25461/taylor/taylor/856622
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png" group-title="CANAIS INFANTIL",NICKELODEON SD
+http://vipeiptv.com:25461/taylor/taylor/856625
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png" group-title="CANAIS INFANTIL",NICKELODEON HD
+http://vipeiptv.com:25461/taylor/taylor/856627
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png" group-title="CANAIS INFANTIL",TOONCAST SD
+http://vipeiptv.com:25461/taylor/taylor/856631
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RÁ-TIM-BUM SSD" tvg-logo="http://vipeiptv.com:25461/images/a767a5d1c07ee94c45d2e34689e4ad79.png" group-title="CANAIS INFANTIL",TV RÁ-TIM-BUM SSD
+http://vipeiptv.com:25461/taylor/taylor/856635
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Zoomoo_logo.png" group-title="CANAIS INFANTIL",ZOOMOO
+http://vipeiptv.com:25461/taylor/taylor/856639
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bis.png" group-title="CANAIS ENTRETENIMENTO",BIS SD
+http://vipeiptv.com:25461/taylor/taylor/856640
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bis.png" group-title="CANAIS ENTRETENIMENTO",BIS HD
+http://vipeiptv.com:25461/taylor/taylor/856642
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bis.png" group-title="CANAIS ENTRETENIMENTO",BIS FHD
+http://vipeiptv.com:25461/taylor/taylor/856644
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://pt.wikipedia.org/wiki/Canal_Brasil#/media/Ficheiro:CanalBrasil_logos_700px_0-03.png" group-title="CANAIS ENTRETENIMENTO",CANAL BRASIL HD
+http://vipeiptv.com:25461/taylor/taylor/856652
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://pt.wikipedia.org/wiki/Sony_Channel#/media/Ficheiro:Sony_Channel_Logo.png" group-title="CANAIS ENTRETENIMENTO",CANAL SONY SD
+http://vipeiptv.com:25461/taylor/taylor/856653
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://pt.wikipedia.org/wiki/Sony_Channel#/media/Ficheiro:Sony_Channel_Logo.png" group-title="CANAIS ENTRETENIMENTO",CANAL SONY HD
+http://vipeiptv.com:25461/taylor/taylor/856654
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="CANAIS ENTRETENIMENTO",CANÇÃO NOVA SD
+http://vipeiptv.com:25461/taylor/taylor/856655
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="CANAIS ENTRETENIMENTO",CANÇÃO NOVA HD
+http://vipeiptv.com:25461/taylor/taylor/856656
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="CANAIS ENTRETENIMENTO",COMEDY CENTRAL SD
+http://vipeiptv.com:25461/taylor/taylor/856657
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="CANAIS ENTRETENIMENTO",COMEDY CENTRAL HD
+http://vipeiptv.com:25461/taylor/taylor/856659
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="CANAIS ENTRETENIMENTO",COMEDY CENTRAL FHD
+http://vipeiptv.com:25461/taylor/taylor/856661
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png" group-title="CANAIS ENTRETENIMENTO",E! SD
+http://vipeiptv.com:25461/taylor/taylor/856663
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png" group-title="CANAIS ENTRETENIMENTO",E! HD
+http://vipeiptv.com:25461/taylor/taylor/856665
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD" tvg-logo="http://vipeiptv.com:25461/images/4d2187339c2c0f316b0849a8b027c40c.png" group-title="CANAIS ENTRETENIMENTO",FISH TV HD
+http://vipeiptv.com:25461/taylor/taylor/856669
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK SD
+http://vipeiptv.com:25461/taylor/taylor/856672
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK HD
+http://vipeiptv.com:25461/taylor/taylor/856674
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK FHD
+http://vipeiptv.com:25461/taylor/taylor/856676
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_life_logo.png" group-title="CANAIS ENTRETENIMENTO",FOX LIFE SD
+http://vipeiptv.com:25461/taylor/taylor/856678
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_life_logo.png" group-title="CANAIS ENTRETENIMENTO",FOX LIFE HD
+http://vipeiptv.com:25461/taylor/taylor/856680
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_life_logo.png" group-title="CANAIS ENTRETENIMENTO",FOX LIFE FHD
+http://vipeiptv.com:25461/taylor/taylor/856682
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="CANAIS ENTRETENIMENTO",FUTURA HD
+http://vipeiptv.com:25461/taylor/taylor/856684
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="http://vipeiptv.com:25461/images/a5e669e9a3073f1384994f3b02576748.png" group-title="CANAIS ENTRETENIMENTO",GNT SD
+http://vipeiptv.com:25461/taylor/taylor/856685
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="http://vipeiptv.com:25461/images/a5e669e9a3073f1384994f3b02576748.png" group-title="CANAIS ENTRETENIMENTO",GNT HD
+http://vipeiptv.com:25461/taylor/taylor/856687
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD" tvg-logo="http://vipeiptv.com:25461/images/a5e669e9a3073f1384994f3b02576748.png" group-title="CANAIS ENTRETENIMENTO",GNT FHD
+http://vipeiptv.com:25461/taylor/taylor/856689
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="CANAIS ENTRETENIMENTO",LIFETIME SD
+http://vipeiptv.com:25461/taylor/taylor/856691
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="CANAIS ENTRETENIMENTO",LIFETIME HD
+http://vipeiptv.com:25461/taylor/taylor/856693
+#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/%2Bglobosat_azul_2d.png" group-title="CANAIS ENTRETENIMENTO",MAIS GLOBOSAT SD
+http://vipeiptv.com:25461/taylor/taylor/856696
+#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/%2Bglobosat_azul_2d.png" group-title="CANAIS ENTRETENIMENTO",MAIS GLOBOSAT HD
+http://vipeiptv.com:25461/taylor/taylor/856698
+#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/LOGO_MTV_BRASIL.png" group-title="CANAIS ENTRETENIMENTO",MTV SD
+http://vipeiptv.com:25461/taylor/taylor/856701
+#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/LOGO_MTV_BRASIL.png" group-title="CANAIS ENTRETENIMENTO",MTV HD
+http://vipeiptv.com:25461/taylor/taylor/856703
+#EXTINF:-1 tvg-id="Multishow HD" tvg-name="MULTISHOW SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Multishow.png" group-title="CANAIS ENTRETENIMENTO",MULTISHOW SD
+http://vipeiptv.com:25461/taylor/taylor/856706
+#EXTINF:-1 tvg-id="Multishow HD" tvg-name="MULTISHOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Multishow.png" group-title="CANAIS ENTRETENIMENTO",MULTISHOW HD
+http://vipeiptv.com:25461/taylor/taylor/856709
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF SD" tvg-logo="http://vipeiptv.com:25461/images/63908e498ca1528f5f47fa918926ad04.jpg" group-title="CANAIS ENTRETENIMENTO",OFF SD
+http://vipeiptv.com:25461/taylor/taylor/856714
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD" tvg-logo="http://vipeiptv.com:25461/images/63908e498ca1528f5f47fa918926ad04.jpg" group-title="CANAIS ENTRETENIMENTO",OFF HD
+http://vipeiptv.com:25461/taylor/taylor/856716
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="CANAIS ENTRETENIMENTO",WOOHOO SD
+http://vipeiptv.com:25461/taylor/taylor/856732
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="CANAIS ENTRETENIMENTO",WOOHOO HD
+http://vipeiptv.com:25461/taylor/taylor/856734
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png" group-title="CANAIS ENTRETENIMENTO",VIVA SD
+http://vipeiptv.com:25461/taylor/taylor/856736
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png" group-title="CANAIS ENTRETENIMENTO",VIVA HD
+http://vipeiptv.com:25461/taylor/taylor/856738
+#EXTINF:-1 tvg-id="Woohoo HD" tvg-name="WOOHOO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="CANAIS ENTRETENIMENTO",WOOHOO SD
+http://vipeiptv.com:25461/taylor/taylor/856741
+#EXTINF:-1 tvg-id="Woohoo HD" tvg-name="WOOHOO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="CANAIS ENTRETENIMENTO",WOOHOO HD
+http://vipeiptv.com:25461/taylor/taylor/856743
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV CABO BRANCO HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-cabo-branco_m.png" group-title="GLOBOS PARAIBA",TV CABO BRANCO HD
+http://vipeiptv.com:25461/taylor/taylor/856807
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV CABO BRANCO SD" tvg-logo="https://i.pinimg.com/originals/81/14/17/81141713c96fbc4ef9108ceb0fb4353a.png" group-title="GLOBOS PARAIBA",TV CABO BRANCO SD
+http://vipeiptv.com:25461/taylor/taylor/856808
+#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA ²" tvg-logo="http://i.imgur.com/1EGWuDA.png" group-title="RELIGIÃO",CANÇÃO NOVA ²
+http://vipeiptv.com:25461/taylor/taylor/856823
+#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA  HD" tvg-logo="http://i.imgur.com/1EGWuDA.png" group-title="RELIGIÃO",CANÇÃO NOVA  HD
+http://vipeiptv.com:25461/taylor/taylor/856824
+#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA SD" tvg-logo="http://i.imgur.com/1EGWuDA.png" group-title="RELIGIÃO",CANÇÃO NOVA SD
+http://vipeiptv.com:25461/taylor/taylor/856825
+#EXTINF:-1 tvg-id="" tvg-name="NOVO TEMPO ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIÃO",NOVO TEMPO ²
+http://vipeiptv.com:25461/taylor/taylor/856826
+#EXTINF:-1 tvg-id="" tvg-name="NOVO TEMPO HD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIÃO",NOVO TEMPO HD ²
+http://vipeiptv.com:25461/taylor/taylor/856827
+#EXTINF:-1 tvg-id="" tvg-name="PAI ETERNO SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuNu57GZV92MZ605i7iyD-tGJl4u6RtPyfhw&usqp=CAU" group-title="RELIGIÃO",PAI ETERNO SD
+http://vipeiptv.com:25461/taylor/taylor/856828
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="RELIGIÃO",REDE VIDA
+http://vipeiptv.com:25461/taylor/taylor/856829
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="RELIGIÃO",TV APARECIDA  SD
+http://vipeiptv.com:25461/taylor/taylor/856830
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="RELIGIÃO",TV APARECIDA ²
+http://vipeiptv.com:25461/taylor/taylor/856831
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="RELIGIÃO",TV APARECIDA HD
+http://vipeiptv.com:25461/taylor/taylor/856832
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png" group-title="RELIGIÃO",TV EVANGELIZAR
+http://vipeiptv.com:25461/taylor/taylor/856833
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIÃO",TV NOVO TEMPO  SD
+http://vipeiptv.com:25461/taylor/taylor/856834
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sbt.png" group-title="CANAIS ABERTOS",SBT RS HD
+http://vipeiptv.com:25461/taylor/taylor/856845
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-8043A38965-seeklogo.com.png" group-title="CANAIS ABERTOS",TV CULTURA HD
+http://vipeiptv.com:25461/taylor/taylor/857057
